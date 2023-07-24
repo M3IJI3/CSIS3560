@@ -1,0 +1,16 @@
+total 76
+drwxr-xr-x 7 sshuser sshuser  4096 May 29 13:01 .
+drwxr-xr-x 7 root    root     4096 May 29 12:51 ..
+-rw------- 1 sshuser sshuser     5 May 29 13:01 .bash_history
+-rw-r--r-- 1 sshuser sshuser   220 Feb 12 12:05 .bash_logout
+-rw-r--r-- 1 sshuser sshuser  5551 May  8 14:28 .bashrc
+-rw-r--r-- 1 sshuser sshuser  3526 Feb 12 12:05 .bashrc.original
+drwx------ 3 sshuser sshuser  4096 May 29 13:00 .cache
+drwxr-xr-x 7 sshuser sshuser  4096 May 29 13:00 .config
+-rw-r--r-- 1 sshuser sshuser 11759 Mar  9 04:11 .face
+lrwxrwxrwx 1 sshuser sshuser     5 Mar  9 04:11 .face.icon -> .face
+drwxr-xr-x 3 sshuser sshuser  4096 May  8 14:26 .java
+drwxr-xr-x 3 sshuser sshuser  4096 May  8 14:26 .local
+-rw-r--r-- 1 sshuser sshuser   807 Feb 12 12:05 .profile
+drwx------ 2 sshuser sshuser  4096 May 29 13:00 .ssh
+-rw-r--r-- 1 sshuser sshuser 10868 Mar  9 06:09 .zshrc

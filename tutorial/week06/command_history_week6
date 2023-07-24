@@ -1,0 +1,999 @@
+    1  ls -l 
+    2  mkdir week01
+    3  ls -al 
+    4  hostory
+    5  history >> test.txt
+    6  tail test.txt
+    7  rm test.txt
+    8  vim .config/qterminal.org/qterminal.ini
+    9  vim ~/home/.config/qterminal.org/qterminal.ini
+   10  sudo su
+   11  bash
+   12  whatis ls
+   13  type
+   14  which is
+   15  which ls
+   16  ls --color
+   17  umask
+   18  cal
+   19  date
+   20  cd bin
+   21  cd ./bin
+   22  ls -A
+   23  ls -lt
+   24  cd Downloads
+   25  less man ls 
+   26  less | man ls
+   27  less /etc/passwd
+   28  mkdir playground
+   29  cd playground
+   30  mkdir dir1 dir2
+   31  cp /etc/passwd .
+   32  cp -v /etc/passwd .
+   33  cp -i /etc/passwd 
+   34  cp -i /etc/passwd
+   35  cp -i /etc/passwd .
+   36  mv passwd fun
+   37  mv dir1/fun dir2
+   38  ls -Al
+   39  ls 
+   40  mv dir2/fun .
+   41  mv fun dir1
+   42  mv dir1 dir2
+   43  cd dir2
+   44  ls -l dir2
+   45  ls -l dir2/dir1
+   46  ls dir2/dir1
+   47  mv dir2/dir1 .
+   48  locate fun
+   49  whereis fun
+   50  mv dir1/fun .
+   51  ln fun fun-hard
+   52  ln fun dir1/fun-hard
+   53  ln fun dir2/fun-hard
+   54  less fun-hard
+   55  head fun-hard
+   56  ln -s fun fun-sym
+   57  ln -s ../fun dir1/fun-sym
+   58  ln -s ../fun dir2/fun-sym
+   59  ls -s
+   60  ls -l dir1
+   61  cd dir1
+   62  ls -li
+   63  ln -s dir1 dir1-sym
+   64  rm fun-hard
+   65  rm -i fun
+   66  less fun-sym
+   67  rm fun-sym dir1-sym
+   68  rmdir playground
+   69  rm -r playground
+   70  man tail
+   71  sudo tail -1 /etc/shadow
+   72  mkdir week02
+   73  id jie433
+   74  sudo groupadd csis3560
+   75  sudo usermod -a -G csis3560 jie433
+   76  id douglas
+   77  ls -ld /var
+   78  sudo mkdir /var/temp
+   79  ls -l var
+   80  sudo chgrp csis3560 /var/temp
+   81  sudo chmod 775 /var/temp
+   82  douglas
+   83  cds
+   84  id
+   85  tail -i /etc/passwd
+   86  tail /etc/passwd
+   87  c
+   88  sudo useradd douglas 
+   89  cd week0
+   90  sudo useradd douglas
+   91  cd //
+   92  cd usr
+   93  cd home
+   94  sudo passwd jie433
+   95  ls -l /car
+   96  man chgrp
+   97  echo "Redirection and pipeline"
+   98  ls -l /var > lsout.txt
+   99  echo "The content of /var" >> file.txt
+  100  rm file.txt
+  101  echo "The content of /var" >> lsout.txt
+  102  cat lsout.txt
+  103  ls l
+  104  ls -l mkdir 2 >&lserror.txt
+  105  car lserror.txt
+  106  rm lserror.txt
+  107  ls -l mydir 2>lserror.txt
+  108  cat lserror.txt
+  109  ls -l mydir > lsmydir.txt 2>&1
+  110  cat lsmydir.txt
+  111  ls -l mydir > temp.txt
+  112  ls /usr/bin /bin  | sort
+  113  ls /usr/bin /bin  | sort | wc
+  114  ls /usr/bin /bin  | sort | uniq | wc
+  115  ls /etc/passwd | wc
+  116  ls /etc/passwd /passwd | uniq  | wc
+  117  cat /etc/passwd | wc
+  118  wc
+  119  cat /etc/passwd | wc -c
+  120  cat /etc/passwd | wc -m
+  121  ls /var/bin
+  122  cat temp.txt
+  123  rm temp.txt
+  124  ma shuf
+  125  man shuf
+  126  man cut
+  127  cat /etc/passwd | cut :
+  128  cut --help
+  129  cat /var/log/boot.log
+  130  sudo cat /var/log/boot.log
+  131  ls /var/log/alternatives.log
+  132  ls /var
+  133  sudo apt-get install --reinstall rsyslog
+  134  sudo service rsyslog start
+  135  sudo service rsyslog status
+  136  ls /var/log
+  137  cat /var/log/syslog | grep jie433
+  138  exit
+  139  sudo vi /etc/passwd
+  140  su root
+  141  su root 
+  142  useradd douglas
+  143  sudo useradd -m douglas
+  144  sudo passwd douglas
+  145  sudo userdel douglas
+  146  sudo adduser douglas
+  147  su - douglas -c "ls -al"
+  148  su douglas -c "ls -al"
+  149  su douglas
+  150  ls -l /var
+  151  cd temp
+  152  cd /var/temp
+  153  touch myfile.txt
+  154  rm myfile.txt
+  155  su - douglas
+  156  cat /var/log/syslog
+  157  head -5 /var/log/syslog
+  158  ls /usr/share/metasploit-framework/data/wordlists
+  159  grep spiderman /usr/share/metasploit-framework/data/wordlists/*
+  160  tail -1 /etc/passwd | cut -d: -f1
+  161  tail -1 /etc/passwd | cut -d: -f1,6
+  162  tail -1 /etc/passwd | awk -f":" '{print $1}'
+  163  sudo tail -1 /etc/passwd | awk -f":" '{print $1}'
+  164  tail -1 /etc/passwd | awk -F":" '{print $1}'
+  165  ls -al | awk -F" " '{print $5}'
+  166  ls -al | awk -F" " '{sum += $5} END{print sum}'
+  167  ls -al | awk -F" " '{$9 $6 $7}'
+  168  ls -al | awk -F" " '{$9,6,7}'
+  169  ls -al | awk -F" " '{$9}'
+  170  ls -al | awk -F" " '{$8}'
+  171  ls -al | awk -F" " '{print $8}'
+  172  ls -al | awk -F" " '{print $9 $6 $7}'
+  173  ls -al | awk -F" " '{print $9}'
+  174  histhistory 
+  175  cat /etc/group | wc 
+  176  cat /etc/group | wc -c
+  177  man wcx
+  179  cat /var/log | grep log
+  180  cat /var/log/* | grep log
+  181  cat /var/log/* | grep log | wc 
+  182  cat /var/log/*/* | grep log | wc 
+  183  cat /var/log | grep log | wc 
+  185  ls -l /var/log
+  186  ls -l /var/log | grep log 
+  187  ls -l /var/log | grep log | wc 
+  188  ls -l /var/log | grep log | wc -l
+  192  tail -1 /etc/passwd
+  193  cat /etc/passwd | grep nonexistent
+  194  cat /etc/passwd | grep nonexistent | cut -d: -f1
+  195  cat /etc/passwd | grep nonexistent | awk -F":" '{print $1}'
+  196  vi practice.txt
+  198  cat practice.txt
+  200  vi squidaccess.log
+  203  cat squidaccess.log | awk -F" " '{print $3}'
+  205  man sort
+  206  cat squidaccess.log | awk -F" " '{print $3}' | sort | uniq
+  213  cat myfile
+  214  vi myfile
+  218  chmod 755 myscript.sh
+  219  ls -l myscript.sh
+  224  history > week02_practice_commands
+  235  ifconfig 
+  238  sudo adduser user01
+  239  sudo adduser user02
+  244  sudo chgrp -a -G sudo user01
+  247  history
+  249  sudo usermod -a -G sudo user01
+  250  sudo usermod -a -G sudo user02
+  252  su - fakeuser0
+  253  su - fakeuser1
+  282  sudo service networking restart
+  288  uptime 
+  293  su user01
+  294  su - fakeuser
+  295  su - fakeuser02
+  296  cat /etc/log/auth.log | grep failure
+  298  sudo su test
+  299  sudo su test01
+  300  sudo su test02
+  302  su - user01
+  346  ./myscript.sh
+  347  cat myscript.sh
+  348  vi myscript.sh
+  367  rm part2_jme433.sh
+  371  ls-l
+  375  host
+  380  ps -ax | wc -l
+  382  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print $3}' | awk '{print $1}'
+  383  uptime | awk -F ',' 'print $3'
+  384  uptime | awk -F ',' '{print $3}'
+  385  man uptime
+  387  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print$3}'
+  388  user
+  389  users
+  390  who 
+  391  w
+  393  who -l
+  394  who | wc -l
+  404  cat /etc/group/sudo
+  408  cat /etc/group | grep sudo | wc -c ','
+  409  cat /etc/group | grep sudo | wc -c
+  411  cat /etc/group | grep sudo | awk -F ':' '{print $4}'
+  412  cat /etc/group | grep sudo | awk -F ':' '{print $4}' | wc -w
+  413  man wc
+  414  grep -c '^sudo:' /etc/group
+  416  cat /etc/group | grep sudo
+  417  cat /etc/group | grep sudo | grep -c ,
+  418  cat /etc/group | grep sudo | grep -c ','
+  419  cat /etc/group | grep sudo | grep -c ","
+  420  cat /etc/group | grep sudo | grep -c ":"
+  421  cat /etc/group | grep sudo | grep -C ":"
+  423  cat /etc/group | grep -c sudo
+  424  who
+  425  cat /etc/group | grep -c root
+  426  man grep
+  427  cat /etc/group | grep -o ','
+  428  cat /etc/group | grep sudo | grep -o ","
+  429  cat /etc/group | grep sudo | grep -o "," | wc -l + 1
+  431  cat /etc/group | grep sudo | grep -o "," | wc -l | echo "+1"
+  432  cat /etc/group | grep sudo | grep -o "," | wc -l | echo "+1" | bc
+  433  cat /etc/group | grep sudo | grep -o "," | wc -l
+  437  cat /var/log/auth.log | grep sudo | wc -l
+  462  sudo mount -t vboxsf Shared /home/jie433/SHARED
+  468  sudo gedit /etc/fstab
+  469  sudo vi /etc/fstab
+  474  chmod 755 auto_mount.sh
+  475  ls -l auto_mount.sh
+  493  tree assignment1_jme433
+  517  eog kali_addnewuser_sudo.png
+  531  vi SHARED/CSIS3560/assignment1_jme433/part2/part2_jme433.sh
+  534  cat /var/log/auth.log | grep "failure"
+  542  cat auto_mount.sh| grep mount
+  544  cat /var/log/auth.log | grep :
+  548  cat /var/log/auth.log | grep -a failure
+  554  cd part
+  558  cat /vat/log/auth.log
+  559  cat /var/log/auth.log
+  561  cat /var/log/auth.log | grep -a sudo
+  562  cat /var/log/auth.log | grep -a sudo | wc -l
+  571  firefox output_part2_jme433.html
+  574  cat /var/log/auth.log | grep sudo
+  579  cat week02_practice_commands
+  582  cat /var/log/auth.log | grep -a jie433
+  584  cat /var/log/auth.log | grep jie433
+  585  cat /var/log/auth.log | grep -a nul
+  586  cat /var/log/auth.log | grep -a NUL
+  587  cat /etc/passwd | grep nologin | wc -l
+  588  cat /etc/passwd | grep nologin
+  590  vi /var/log/auth.log
+  591  cat /var/log/auth.log | grep failure
+  593  sudo cat /var/log/auth.log | grep failure
+  609  tree SHARED
+  626  dig
+  627  dig google.com
+  631  mkdir Tutorial
+  632  mv week01 Tutorial
+  633  mv week02 Tutorial
+  637  cat week01
+  638  cd week01
+  640  cd week02
+  641  cd ../week02
+  647  cleaqr
+  651  mkdir week04
+  654  echo "Text Processing"
+  657  echo "aaabbc" | tr -s "ab" 
+  659  echo "abcdefghijklmnopqistuvwxyz" | tr a-z n-za-m
+  661  echo "banana\mango\grape" > fruit.txt
+  662  echo "kiwi\strawberry" > fruit2.txt
+  663  mv fruit.txt fruit1.txt
+  671  cat fruit1.txt fruit2.txt > fruit3.txt
+  677  cat fruit1.txt fruit2.txt > fruit3_orig.txt
+  681  cat fruit3_orig.txt
+  682  diff fruit3.txt fruit3_orig.txt
+  684  echo "Process"
+  688  ps x
+  689  ps ax
+  690  ps -ef
+  699  xloho&1
+  707  echo "Networking"
+  710  cat /etc/host
+  712  cat /etc/hostname
+  713  hostname
+  716  dig hackerarise.com
+  721  netstat -a 
+  722  netstat -tlpn | grep listen 
+  726  sudo iptable -l
+  727  sudo iptables -l
+  730  sudo useradd -m sshuser
+  731  sudo passwd sshuser
+  732  sudo chsh -s /bin/bash sshuser
+  734  echo "Creating passwordless ssh auth"
+  737  ssh-keygen -t rsa -b 4096 -C kali@csis3560.com
+  742  ssh-copy-id sshuser@localhost
+  743  whoami 
+  745  ssh sshuser@localhost
+  746  ssh sshuser@localhost 'ls -al'
+  747  ssh sshuser@localhost 'ls -al' > list.txt
+  749  history > command_history_week4
+  754  vi .tmux.conf
+  755  cat .tmux.conf
+  759  tmux 
+  763  tmux
+  777  vi test.sh `
+  780  ./test.sh 50
+  782  chmod 755 for_loop.sh
+  783  ./for_loop.sh
+  784  ./for_loop.sh car
+  785  ./for_loop.sh fruit1.txt
+  787  vi bash_test
+  788  rm bash_test
+  792  cat fruit2.txt
+  795  vi car
+  796  vi for_loop.sh
+  797  sqlmap
+  800  sqlmap -u https://www.iff-app.life/index/index/home.html -vatch
+  801  sqlmap -u https://www.iff-app.life/index/index/home.html -batch
+  802  sqlmap -u https://www.iff-app.life/index/rot_order/submit_order.html?cid=1&reCAPTCHA=&v=3&level=0&m=1685482642992 -batch
+  803  sqlmap -u https://www.iff-app.life/index/rot_order/submit_order.html?cid=1 -batch
+  804  sqlmap -u https://www.iff-app.life/admin -batch
+  806  sqlmap -u https://www.iff-app.life/admin#/admin/users/level.html?spm=m-62-63-85 -batch
+  807  ssh admin@207.81.48.74
+  808  sudo admin@207.81.48.74 -p 22
+  809  sudo ssh admin@207.81.48.74 -p 22
+  810  sudo ssh admin@207.81.48.74
+  811  sqlmap -u https://www.iff-app.life/admin#/admin -batch
+  812  sqlmap -u https://www.iff-app.life/admin#/admin/users/level.html?spm=1
+  814  tpscan
+  815  sudo apt install tpscan
+  816  sudo apt-get tpscan
+  821  python TPscan/TPscan.py
+  822  python TPscan/plugins/thinkphp_driver_display_rce.py
+  825  sqlmap -u https://www.iff-app.life/admin#/admin/users?id=1 -batch
+  827  nmap 10.170.0.47 
+  828  nmap 207.81.48.74
+  829  ping 207.81.48.74
+  830  nmap 207.81.48.74 -p 53
+  832  sqlmap -u https://www.iff-app.life/index.php?user=1 -batch 
+  834  cd Desktop
+  835  git clone https://github.com/Lucifer1993/TPscan.git
+  838  xlogo&0
+  839  xlogo&1
+  841  killall xlogo
+  842  ps -df | grep xlogo
+  849  cd Tutoeial
+  854  cd command_history_week4
+  862  cd assignment1_jme433
+  867  echo "aaabbc" | tr "ab" "xy"
+  868  echo "aaabbc" | tr -s "ab"
+  870  echo "secret text" | tr a-z n-za-m | tr a-z n-za-m
+  871  echo "secret text" | tr a-z a-mn-z
+  872  echo "secret text" | tr a-z n-za-m
+  874  whatis sed
+  880  cat car
+  881  sed 's/Benz/BMW/g' car
+  885  sed 's/banana/apple/g' fruit1.txt
+  886  sed -e 's/banana/apple/g' -e 's/mango/kiwi/g' fruit1.txt
+  889  cat fruit1.txt
+  890  sed -e 's/banana/chicken/g' -e 's/mango/zebra/g' fruit1.txt
+  892  sed -i -e 's/banana/apple/g' -e 's/mango/kiwi/g' fruit3.txt
+  894  sed -i -e 's/apple/chicken/g' -e 's/kiwi/joker/g' fruit3.txt
+  895  cat fruit3.txt
+  896  man sed
+  898  diff fruit3.txt fruit2.txt
+  902  ps- ax
+  905  ps
+  906  ps -a
+  907  ps -x
+  908  ps -ax
+  909  diff ps -x | ps -ax
+  911  top
+  912  man top
+  913  man ps
+  915  firefox &
+  918  ps -df
+  919  xlogo
+  920  cleare
+  922  ps -u jie433 | grep xlogo
+  923  ps -u jie433
+  924  ps -u jie433 -df
+  926  vmstat
+  930  man uname
+  931  uname
+  932  uname -a
+  934  sudo cat /etc/host
+  935  sudo cat /etc/hosts
+  936  sudo cat /etc/hostname
+  939  man dig
+  940  dig hacker-arise.com
+  941  dig hacker-arise.com ns
+  943  cat /etc/resolv.conf
+  944  netstat
+  945  netstat -a
+  947  sudo netstat -tlpn | grep listen
+  948  sudo netstat -tlpn | grep LISTEN
+  952  service ssh status
+  953  netstat -tlpn | grep LISTEN
+  954  iptable
+  955  sudo iptables -L
+  961  mkdir assignment2_jme433
+  963  mkdir part1
+  967  pwd
+  972  cat squidaccess.log
+  980  mv squidaccess.log part1/inc
+  991  touch analyze_jme433.inc
+  996  mv inc/squidaccess.log data
+ 1036  cd assignment
+ 1037  cd assignment2
+ 1044  realpath --relative-to="squidaccess.log" "part1_jme433.sh"
+ 1046  cd CSIS3560
+ 1055  dirname analyze_jme433.inc
+ 1059  cat data/squidaccess.log| wc -l
+ 1060  cat data/squidaccess.log| grep uniq
+ 1062  cat data/squidaccess.log | awk -F ' ', '{print3}'
+ 1063  cat data/squidaccess.log | awk -F ' ', '{print $3}'
+ 1064  cat data/squidaccess.log | awk -F '', '{print $1}'
+ 1065  cat data/squidaccess.log | awk -F ' ' '{print $3}'
+ 1066  cat data/squidaccess.log | awk -F ' ' '{print $3}' > uniq
+ 1067  cat data/squidaccess.log | uniq
+ 1068  uniq | cat data/squidaccess.log
+ 1071  rm uniq
+ 1073  cd data
+ 1076  cat data/squidaccess.log | awk -F ' ' '{print $3}' | sort
+ 1077  cat data/squidaccess.log | awk -F ' ' '{print $3}' | sort | uniq
+ 1078  cat data/squidaccess.log | awk -F ' ' '{print $3}' | sort | uniq | wc -l
+ 1079  cat data/squidaccess.log | awk -F ' ' '{print $3}' | uniq
+ 1080  cat data/squidaccess.log 
+ 1081  cat data/squidaccess.log | awk -F ' ' '{print $4}'
+ 1082  cat data/squidaccess.log | awk -F ' ' '{print $4}' | awk -F '/' '{print $2}' | sort | uniq
+ 1083  cat data/squidaccess.log
+ 1084  cat data/squidaccess.log | awk -F ' ' '{print $10}'
+ 1085  cat data/squidaccess.log | awk -F ' ' '{print $10}' | awk -F '/' 'print $1' | grep application | wc -l
+ 1086  cat data/squidaccess.log | awk -F ' ' '{print $10}' | awk -F '/' '{print $1}' | grep application | wc -l
+ 1093  whereis squidaccess.log
+ 1115  pwd suqidaccess.log
+ 1117  pwd --hrlp
+ 1118  pwd h
+ 1119  pwd -h
+ 1120  pwd --help
+ 1121  man pwd
+ 1135  vi inc/header_jme433.inc
+ 1139  vi inc/analyze_jme433.inc
+ 1143  eog screenshot/result.png
+ 1145  cd .. ..
+ 1151  vi part1/part1_jme433.sh
+ 1154  sudo useradd -m testuser
+ 1157  cat /bin/bash
+ 1167  ls -al ~/.ssh/id_*.pub
+ 1168  cat ~/.ssh/id_*.pub
+ 1182  cat list.txt
+ 1210  vi id_rsa.pub
+ 1215  deluser testuser
+ 1219  useradd tempuser
+ 1220  sudo useradd tempuser
+ 1221  passwd tempuser
+ 1222  sudo passwd tempuser
+ 1226  ssh-keygen -t rsa -b 4096 -C tempuser@csis3560.com
+ 1229  ssh-copy-id tempuser@localhost
+ 1231  ssh tempuser@localhost
+ 1232  sudo chsh -s /bin/bash tempuser
+ 1234  su tempuser
+ 1242  sudo useradd testuser
+ 1245  sudo passwd testuser
+ 1246  sudo chsh -s /bin/bash testuser
+ 1249  ssh-keygen -t rsa -b 4096 -C testuser@csis3560.com
+ 1250  ssh-copy-id testuser@localhost
+ 1257  sudo ssh-copy-id testuser@LinuxMint-CSIS3560
+ 1262  ssh-copy-id LinuxMint-CSIS3560
+ 1266  vi auto_mount.sh
+ 1268  whoami
+ 1269  ssh LinuxMint-CSIS3560
+ 1272  tree ~/.ssh
+ 1273  cd ~/.ssh
+ 1280  su testuser
+ 1293  rm user-info.inc
+ 1297  touch server-info.inc
+ 1298  touch user-info.inc
+ 1312  ./
+ 1372  ./part2_jme433.sh testuser@localhost
+ 1420  ./part2_jme433.sh localhost >> main.txt
+ 1421  cat main.txt
+ 1422  rm main.txt
+ 1425  grep -c '/home' /etc/passwd
+ 1473  ./part2_jme433.sh LinuxMint-CSIS3560
+ 1476  ./part2_jme433.sh localhost >> output_part2_jme433.txt
+ 1477  ./part2_jme433.sh LinuxMint-CSIS3560 >> output_part2_jme433.txt
+ 1478  vi output_part2_jme433.txt
+ 1483  tar -czf assignment2_jme433.tar.gz assignment2_jme433
+ 1485  cd SHARED
+ 1488  cd SHARED/CSIS3560/assignment2_jme433
+ 1496  cd Tutorial/week04
+ 1501  uptime | awk -F ',' '{print $5}'
+ 1503  uptime | cut -d "," -f 5
+ 1504  free -h 
+ 1505  free -h | awk 'NF==2'
+ 1509  free -h | awk 'NR==2' | cut -f 4 
+ 1510  free -h | awk 'NR==2' | cut -d ' ' -f 4
+ 1511  free -h | awk 'NR==2' | cut -d ':' -f 1
+ 1517  cd SHARED/CSIS3560/assignment1_jme433
+ 1524  cat /etc/passwd | wc -l
+ 1525  cat /etc/passwd | cut -d ':' -f 1 | wc -l\n
+ 1526  cat /etc/passwd
+ 1527  cat /etc/group
+ 1528  cat /etc/group | wc -l
+ 1529  cat /etc/group | sort | uniq | wc -l
+ 1531  cat /etc/passwd | grep /home
+ 1532  free -h | awk 'NR==2' '{print $4}'
+ 1535  free -h | awk 'NR==2' | awk '{print$4}'
+ 1536  free -h | awk 'NR==2 {print$4}'
+ 1540  cat id_rsa
+ 1543  cat known_hosts
+ 1544  cat id_rsa.pub
+ 1548  sudo vi /conf/servers.txt
+ 1549  sudo vi conf/servers.txt
+ 1550  cd cong
+ 1559  ps aux
+ 1560  ps aux | grep -v grep
+ 1561  ps aux | grep -v grep | wc -l
+ 1563  uptime
+ 1565  cd .config
+ 1569  cd /
+ 1577  ssh-copy-id testuser@LinuxMint-CSIS3560
+ 1579  ssh testuser@LinuxMint-CSIS3560
+ 1580  systemctl --type=service --state=running
+ 1581  systemctl --type=service --state=running | grep running 
+ 1582  systemctl --type=service --state=running | grep running | wc -l
+ 1584  free
+ 1585  free -h
+ 1588  free -h | awk 'NR=2'
+ 1590  free -h | awk 'NR==2' | awk '\t' '{print $4}'
+ 1593  free -h | awk 'NR==2 \{print $4}'
+ 1594  free -h | awk 'NR==2 {print \$4}'
+ 1595  free -h | awk 'NR==2'
+ 1596  free -h | awk 'NR==2' | awk ' ' '{print $4}'
+ 1597  free -h | awk 'NR==2' | awk ' ' '{print $10}'
+ 1598  free -h | awk 'NR==2 {print $4}'
+ 1599  free -h | awk 'NR==2' | awk '{print $4}'
+ 1628  cat part1
+ 1634  ./part2_jme433.sh localhost
+ 1635  cat output_part2_jme433.txt
+ 1652  cat analyze_jme433.inc
+ 1656  echo "abcd" | tr a-z n-za-m
+ 1673  mkdir Midterm1_jme33
+ 1675  mkdir data
+ 1677  mv apache.log Midterm1_jme33/data
+ 1683  touch header_jme433.inc
+ 1684  touch simple_analyze_jme433.inc
+ 1686  touch more_analyze_jme433.inc
+ 1688  touch part1_jme433.sh
+ 1693  vi simple_analyze_jme433.inc
+ 1697  chmod 755 part1_jme433.sh
+ 1708  cat data/apache.log| wc -l
+ 1723  vi inc/simple_analyze_jme433.inc
+ 1737  mkdir part2
+ 1738  tree
+ 1739  clear
+ 1740  cd .ssh
+ 1741  vi /etc/hosts
+ 1742  sudo vi /etc/hosts
+ 1743  ssh-keygen -t rsa -b 4096 -C jie@3560Midterm
+ 1744  clear
+ 1745  ssh-copy-id midtermuser@remote3560
+ 1746  cd part2
+ 1747  mkdir screenshot
+ 1748  vi part2_jme433.sh
+ 1749  chmod 755 part2_jme433.sh
+ 1750  ./part2_jme433.sh
+ 1751  vi part2_jme433.sh
+ 1752  ./part2_jme433.sh
+ 1753  cd Midterm1_jme33
+ 1754  cat data/apache.log
+ 1755  clear
+ 1756  cat data/apache.log | awk '"' '{print $1}'
+ 1757  cat data/apache.log | awk -F '"' '{print $1}'
+ 1758  cat data/apache.log | awk -F '"' '{print $2}'
+ 1759  cat data/apache.log | awk -F '"' '{print $2}' | awk -F ' ' '{print $1}'
+ 1760  cat data/apache.log | awk -F '"' '{print $2}' | awk -F ' ' '{print $1}' | sort | uniq
+ 1761  cat data/apache.log | awk -F ' ' '{print $9}'
+ 1762  cat data/apache.log | awk -F ' ' '{print $9}' | sort | uniq
+ 1763  cleR
+ 1764  CLEAR
+ 1765  CD
+ 1766  CLEAR
+ 1767  CD .SSH
+ 1768  \tclear
+ 1769  cd .ssh
+ 1770  cd
+ 1771  cear
+ 1772  clear
+ 1773  cd .ssh
+ 1774  cd
+ 1775  cd SHARED/CSIS3560
+ 1776  cd assignment2_jme433
+ 1777  cd part1
+ 1778  ;s
+ 1779  ls
+ 1780  cd inc
+ 1781  ls
+ 1782  vi header_jme433.inc
+ 1783  vi analyze_jme433.inc
+ 1784  cd ..
+ 1785  cd part2
+ 1786  ls
+ 1787  cd inc
+ 1788  ls
+ 1789  cat user-info.inc
+ 1790  clear
+ 1791  man cat
+ 1792  cat -n 1 /etc/hosts
+ 1793  cat -n /etc/hosts
+ 1794  man cat
+ 1795  clear
+ 1796  head -5 /etc/hosts
+ 1797  clear
+ 1798  echo "secret" | tr a-z r-za-q
+ 1799  echo "secret" | tr a-z r-za-q | tr a-z r-za-q
+ 1800  echo "secret" | tr a-z r-za-q | tr a-z
+ 1801  echo "secret" | tr a-z r-za-q 
+ 1802  clear
+ 1803  echo "secret" | tr a-z r-za-q 
+ 1804  echo "secret" | tr a-z r-za-q | tr a-z a-qr-z
+ 1805  echo "secret" | tr a-z r-za-q | tr a-z r-za-q
+ 1806  echo "secret" | tr a-z r-za-q | tr a-z r-za-q | tr a-z r-za-q
+ 1807  clear
+ 1808  cd
+ 1809  cd Tutorial
+ 1810  cd week04
+ 1811  ls
+ 1812  cat command_history_week4
+ 1813  clear
+ 1814  cd
+ 1815  clear
+ 1816  cd SHARED/CSIS3560
+ 1817  ls
+ 1818  cd Midterm1_jme33
+ 1819  ls
+ 1820  cd part1
+ 1821  ls
+ 1822  clear
+ 1823  ls
+ 1824  cat data/squidaccess.log | grep 409
+ 1825  cat data/apache.log | grep 409
+ 1826  cat data/apache.log | awk -F ' ' '{print $9}' | sort | uniq
+ 1827  ifconfig
+ 1828  cd Midterm1_jme33
+ 1829  ls
+ 1830  cd part2
+ 1831  ls
+ 1832  ssh midtermuser@remote3560
+ 1833  clear
+ 1834  vi part2_jme433.sh
+ 1835  ./part2_jme433.sh
+ 1836  vi part2_jme433.sh
+ 1837  ./part2_jme433.sh
+ 1838  vi part2_jme433.sh
+ 1839  ./part2_jme433.sh
+ 1840  vi part2_jme433.sh
+ 1841  ./part2_jme433.sh
+ 1842  vi part2_jme433.sh
+ 1843  ./part2_jme433.sh
+ 1844  vi part2_jme433.sh
+ 1845  ./part2_jme433.sh
+ 1846  vi part2_jme433.sh
+ 1847  ./part2_jme433.sh
+ 1848  vi part2_jme433.sh
+ 1849  ./part2_jme433.sh
+ 1850  vi part2_jme433.sh
+ 1851  ./part2_jme433.sh
+ 1852  vi part2_jme433.sh
+ 1853  ./part2_jme433.sh
+ 1854  vi part2_jme433.sh
+ 1855  ./part2_jme433.sh
+ 1856  clear
+ 1857  cd ..
+ 1858  tree
+ 1859  cd
+ 1860  tar -czf Midterm1_jme33.tar.gz Midterm1_jme33
+ 1861  clear
+ 1862  cd Midterm1_jme33
+ 1863  tree
+ 1864  cat part1/data/apache.log
+ 1865  clear
+ 1866  ls
+ 1867  rm
+ 1868  clear
+ 1869  cd
+ 1870  clear
+ 1871  ls
+ 1872  rm Midterm1_jme33.tar.gz
+ 1873  ls -al
+ 1874  clear
+ 1875  ls -l
+ 1876  mv Midterm1_jme33 SHARED/CSIS3560
+ 1877  ls
+ 1878  cd SHARED/CSIS3560
+ 1879  ls
+ 1880  rm assignment2_jme433.tar.gz
+ 1881  ls
+ 1882  clear
+ 1883  ls
+ 1884  tree Midterm1_jme33
+ 1885  cd part1/
+ 1886  cd Midterm1_jme33
+ 1887  cd part1
+ 1888  ls
+ 1889  clear
+ 1890  ./part1_jme433.sh
+ 1891  vi part1_jme433.sh
+ 1892  ls
+ 1893  tree inc
+ 1894  vi inc/more_analyze_jme433.inc
+ 1895  ./part1_jme433.sh
+ 1896  cat inc/more_analyze_jme433.inc
+ 1897  clear
+ 1898  ./part1_jme433.sh
+ 1899  vi inc/more_analyze_jme433.inc
+ 1900  ./part1_jme433.sh
+ 1901  clear
+ 1902  ./part1_jme433.sh
+ 1903  vi inc/more_analyze_jme433.inc
+ 1904  ./part1_jme433.sh
+ 1905  clear
+ 1906  ./part1_jme433.sh
+ 1907  vi inc/more_analyze_jme433.inc
+ 1908  cd ..
+ 1909  ./part2/part2_jme433.sh
+ 1910  clear
+ 1911  ls
+ 1912  cd part2
+ 1913  ls
+ 1914  vi part2_jme433.sh
+ 1915  clea
+ 1916  rclear
+ 1917  clear
+ 1918  cd
+ 1919  cd Tutorial
+ 1920  ls
+ 1921  clear
+ 1922  mkdir week05
+ 1923  ls
+ 1924  cd week05
+ 1925  ls
+ 1926  clear
+ 1927  df
+ 1928  clear
+ 1929  du
+ 1930  ckear
+ 1931  du /dev/sda
+ 1932  clear
+ 1933  mkdir conf
+ 1934  ls
+ 1935  vi conf/server.txt
+ 1936  mkdir inc
+ 1937  ls
+ 1938  clear
+ 1939  cd inc
+ 1940  vi server-info.inc
+ 1941  ls -l
+ 1942  chmod 755 server-info.inc
+ 1943  vi server-info.inc
+ 1944  ./server-info.inc
+ 1945  vi server-info.inc
+ 1946  sudo service ssh start
+ 1947  ./server-info.inc
+ 1948  ./server-info.inc localhost
+ 1949  vi server-info.inc
+ 1950  ./server-info.inc
+ 1951  vi server-info.inc
+ 1952  ./server-info.inc
+ 1953  ./server-info.inc localhost
+ 1954  vi server-info.inc
+ 1955  ./server-info.inc 
+ 1956  ./server-info.inc localhost
+ 1957  clear
+ 1958  ls
+ 1959  vi conn-check.inc
+ 1960  chmod 755 conn-check.inc
+ 1961  clear
+ 1962  ./conn-check.inc localhost
+ 1963  vi conn-check.inc
+ 1964  ./conn-check.inc localhost
+ 1965  vi conn-check.inc
+ 1966  ls
+ 1967  cd ..
+ 1968  vi server-monitor.sh
+ 1969  chmod 755 server-monitor.sh
+ 1970  ./server-monitor.sh
+ 1971  lsinc
+ 1972  ls inc
+ 1973  clear
+ 1974  vi server-monitor.sh
+ 1975  ./server-monitor.sh
+ 1976  vi server-monitor.sh
+ 1977  ./server-monitor.sh
+ 1978  cat conf/server.txt
+ 1979  ./server-monitor.sh
+ 1980  cat /etc/hosts
+ 1981  clear
+ 1982  vi server-monitor.sh
+ 1983  vi inc/server-info.inc
+ 1984  vi server-monitor.sh
+ 1985  ssh sshuser@127.0.01
+ 1986  ./server-monitor.sh
+ 1987  ssh-copy-id sshuser@127.0.0.1
+ 1988  clear
+ 1989  ./server-monitor.sh
+ 1990  vi server-monitor.sh
+ 1991  ./server-monitor.sh
+ 1992  vi conf/server.txt
+ 1993  ./server-monitor.sh
+ 1994  vi inc/server-info.inc
+ 1995  ./server-monitor.sh
+ 1996  vi inc/conn-check.inc
+ 1997  vi server-monitor.sh
+ 1998  vi inc/conn-check.inc
+ 1999  vi inc/server-info.inc
+ 2000  ./server-monitor.sh
+ 2001  ls
+ 2002  ./auto_mount.sh
+ 2003  clear
+ 2004  service ssh status 
+ 2005  service ssh start
+ 2006  service ssh status 
+ 2007  clear
+ 2008  ls
+ 2009  cd SHARED/CSIS3560
+ 2010  ls
+ 2011  cd assignment2_jme433
+ 2012  ls
+ 2013  cd part1
+ 2014  ls
+ 2015  ./part1_jme433.sh
+ 2016  clear
+ 2017  cd ..
+ 2018  ls
+ 2019  cd part2
+ 2020  ls
+ 2021  cd screenshot
+ 2022  ls
+ 2023  clear
+ 2024  cd..
+ 2025  cd ..
+ 2026  ls
+ 2027  clear
+ 2028  ls
+ 2029  ls -l inc
+ 2030  mkdir conf
+ 2031  touch conf/servers.txt
+ 2032  vi conf/servers.txt
+ 2033  ls
+ 2034  tree
+ 2035  clear
+ 2036  ls
+ 2037  vi conf/servers.txt
+ 2038  vi /etc/hosts
+ 2039  vi conf/servers.txt
+ 2040  ls
+ 2041  vi inc/server-info.inc
+ 2042  ls
+ 2043  vi part2_jme433.sh
+ 2044  ./part2_jme433.sh
+ 2045  clear
+ 2046  vi inc/server-info.inc
+ 2047  ls
+ 2048  cd inc
+ 2049  ls
+ 2050  vi conf/servers.txt
+ 2051  ls
+ 2052  cd conf
+ 2053  cd ..
+ 2054  ls
+ 2055  cd conf
+ 2056  ls
+ 2057  vi servers.txt
+ 2058  clear
+ 2059  ssh testuser@localhost
+ 2060  clear
+ 2061  cd ..
+ 2062  vi part2_jme433.sh
+ 2063  ./part2_jme433.sh
+ 2064  vi part2_jme433.sh
+ 2065  ./part2_jme433.sh
+ 2066  vi part2_jme433.sh
+ 2067  cd SHARED/CSIS3560
+ 2068  ls
+ 2069  cd assignment2_jme433
+ 2070  ls
+ 2071  cd part2
+ 2072  ls
+ 2073  clear
+ 2074  ls
+ 2075  rm output_part2_jme433.txt
+ 2076  vi inc/server-info.inc
+ 2077  vi inc/user-info.inc
+ 2078  ls
+ 2079  cd Tutorial
+ 2080  ls
+ 2081  cd week05
+ 2082  ls
+ 2083  cd inc
+ 2084  ls
+ 2085  vi server-info.inc
+ 2086  cd ..
+ 2087  ls
+ 2088  vi server-monitor.sh
+ 2089  vi server-info.inc
+ 2090  ls
+ 2091  rm server-info.inc
+ 2092  cd inc
+ 2093  ls
+ 2094  vi server-info.inc
+ 2095  vi conn-check.inc
+ 2096  ls
+ 2097  cd ..
+ 2098  ls
+ 2099  vi server-monitor.sh
+ 2100  ls
+ 2101  cd Tutorial
+ 2102  ls
+ 2103  cd week05
+ 2104  ls
+ 2105  cd inc
+ 2106  ls
+ 2107  vi server-info.inc
+ 2108  cd ..
+ 2109  ls
+ 2110  vi server-monitor.sh
+ 2111  vi server-info.inc
+ 2112  ls
+ 2113  rm server-info.inc
+ 2114  cd inc
+ 2115  ls
+ 2116  vi server-info.inc
+ 2117  vi conn-check.inc
+ 2118  ls
+ 2119  cd ..
+ 2120  ls
+ 2121  vi server-monitor.sh
+ 2122  cd Tutorial/week06
+ 2123  ls
+ 2124  vi disk-info.inc
+ 2125  ls
+ 2126  mv sysinfo.sh sys-info.inc
+ 2127  ls
+ 2128  vi test.sh
+ 2129  chmod 755 test.sh
+ 2130  ls
+ 2131  mkdir inc 
+ 2132  mv disk-info.inc inc
+ 2133  mv sys-info.inc inc
+ 2134  ls
+ 2135  ./test.sh
+ 2136  2
+ 2137  vi inc/disk-info.inc
+ 2138  clear
+ 2139  ls
+ 2140  vi test.sh
+ 2141  ./test.sh
+ 2142  clear
+ 2143  python

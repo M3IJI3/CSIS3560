@@ -1,0 +1,4272 @@
+[
+    {
+        "course": "ACCT1110",
+        "section": "001",
+        "instructor": "Stanger",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "002",
+        "instructor": "Chenkov",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "003",
+        "instructor": "Chenkov",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "004",
+        "instructor": "Yang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "005",
+        "instructor": "Yang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "006",
+        "instructor": "Tan-Tompkins",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "050",
+        "instructor": "Li",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT1110",
+        "section": "051",
+        "instructor": "Formosa",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "ACCT1210",
+        "section": "001",
+        "instructor": "Yoon",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT1210",
+        "section": "002",
+        "instructor": "Tang",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT1210",
+        "section": "004",
+        "instructor": "Liu",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT1210",
+        "section": "050",
+        "instructor": "Yoon",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:30",
+        "bldg": "NWN",
+        "room": "N4217"
+    },
+    {
+        "course": "ACCT1222",
+        "section": "001",
+        "instructor": "Tang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "ACCT1222",
+        "section": "050",
+        "instructor": "Tang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT1235",
+        "section": "003",
+        "instructor": "McLellan",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ACCT1235",
+        "section": "050",
+        "instructor": "McLellan",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ACCT1235",
+        "section": "051",
+        "instructor": "Topsy",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT2320",
+        "section": "001",
+        "instructor": "Stanger",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ACCT2320",
+        "section": "002",
+        "instructor": "Stanger",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ACCT2320",
+        "section": "003",
+        "instructor": "Stanger",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ACCT2320",
+        "section": "050",
+        "instructor": "Clair",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT3008",
+        "section": "001",
+        "instructor": "Mauger",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3008",
+        "section": "002",
+        "instructor": "Mauger",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3008",
+        "section": "050",
+        "instructor": "Liu",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3008",
+        "section": "051",
+        "instructor": "Chenkov",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "ACCT3008",
+        "section": "053",
+        "instructor": "Thiara",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "ACCT3310",
+        "section": "001",
+        "instructor": "Tan-Tompkins",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3310",
+        "section": "002",
+        "instructor": "Tan-Tompkins",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3310",
+        "section": "050",
+        "instructor": "Tan-Tompkins",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3370",
+        "section": "001",
+        "instructor": "Yang",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "ACCT3370",
+        "section": "002",
+        "instructor": "Zhang",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ACCT3370",
+        "section": "050",
+        "instructor": "Yang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N6111"
+    },
+    {
+        "course": "ACCT3410",
+        "section": "001",
+        "instructor": "Formosa",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "ACCT3410",
+        "section": "050",
+        "instructor": "Formosa",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N6111"
+    },
+    {
+        "course": "ACCT3410",
+        "section": "051",
+        "instructor": "Clair",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT3420",
+        "section": "001",
+        "instructor": "Mauger",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT3420",
+        "section": "050",
+        "instructor": "Mauger",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N4306"
+    },
+    {
+        "course": "ACCT3470",
+        "section": "001",
+        "instructor": "Formosa",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "ACCT3470",
+        "section": "050",
+        "instructor": "Wong",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT3880",
+        "section": "001",
+        "instructor": "Zhang",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NW",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT3880",
+        "section": "050",
+        "instructor": "Charaf",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NW",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT4510",
+        "section": "001",
+        "instructor": "Zhang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N4308"
+    },
+    {
+        "course": "ACCT4510",
+        "section": "051",
+        "instructor": "Zhang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "ACCT4520",
+        "section": "050",
+        "instructor": "Chenkov",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N4308"
+    },
+    {
+        "course": "ACCT4520",
+        "section": "051",
+        "instructor": "Chenkov",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N4215"
+    },
+    {
+        "course": "ACCT4570",
+        "section": "090",
+        "instructor": "Wong",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT4580",
+        "section": "090",
+        "instructor": "Charaf",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT4670",
+        "section": "050",
+        "instructor": "Yang",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ACCT4750",
+        "section": "001",
+        "instructor": "Charaf",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "ACCT4750",
+        "section": "050",
+        "instructor": "Charaf",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ANTH1100",
+        "section": "001",
+        "instructor": "Nuttall",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ANTH1100",
+        "section": "002",
+        "instructor": "Nuttall",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ANTH1100",
+        "section": "090",
+        "instructor": "Nuttall",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "ANTH2220",
+        "section": "001",
+        "instructor": "Nuttall",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "BIOL1100",
+        "section": "001",
+        "instructor": "Harper",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1100",
+        "section": "002",
+        "instructor": "Harper",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1103",
+        "section": "002",
+        "instructor": "Gonzalez Torres",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL1103",
+        "section": "003",
+        "instructor": "Gonzalez Torres",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL1103",
+        "section": "004",
+        "instructor": "Harper",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1103",
+        "section": "005",
+        "instructor": "Harper",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1104",
+        "section": "050",
+        "instructor": "Barker",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BIOL1109",
+        "section": "001",
+        "instructor": "Cruz-Aguado",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1109",
+        "section": "002",
+        "instructor": "Cruz-Aguado",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1110",
+        "section": "001",
+        "instructor": "Faurie",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1110",
+        "section": "002",
+        "instructor": "Faurie",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1110",
+        "section": "003",
+        "instructor": "Faurie",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1203",
+        "section": "001",
+        "instructor": "Barker",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL1203",
+        "section": "002",
+        "instructor": "Barker",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL1203",
+        "section": "003",
+        "instructor": "Karunakaran",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1203",
+        "section": "004",
+        "instructor": "Karunakaran",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1203",
+        "section": "005",
+        "instructor": "Gonzalez Torres",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1210",
+        "section": "001",
+        "instructor": "Cruz-Aguado",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL1210",
+        "section": "002",
+        "instructor": "Cruz-Aguado",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL2200",
+        "section": "001",
+        "instructor": "Weisser",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL2200",
+        "section": "002",
+        "instructor": "Weisser",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL2200",
+        "section": "003",
+        "instructor": "Tautorus",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "001",
+        "instructor": "Karunakaran",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "002",
+        "instructor": "Karunakaran",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "003",
+        "instructor": "Tautorus",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "004",
+        "instructor": "Tautorus",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "005",
+        "instructor": "Tautorus",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BIOL2401",
+        "section": "006",
+        "instructor": "Tautorus",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BLAW1320",
+        "section": "001",
+        "instructor": "Durovic",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BLAW1320",
+        "section": "002",
+        "instructor": "Durovic",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BLAW1320",
+        "section": "050",
+        "instructor": "Durovic",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "BLAW1320",
+        "section": "051",
+        "instructor": "Durovic",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "709"
+    },
+    {
+        "course": "BLAW1320",
+        "section": "052",
+        "instructor": "Kietaibl",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "711"
+    },
+    {
+        "course": "BLAW3700",
+        "section": "001",
+        "instructor": "Omura",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BLAW3700",
+        "section": "002",
+        "instructor": "Omura",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BLAW3730",
+        "section": "050",
+        "instructor": "Kietaibl",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "BLAW3750",
+        "section": "050",
+        "instructor": "Omura",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "626"
+    },
+    {
+        "course": "BLAW3770",
+        "section": "001",
+        "instructor": "Omura",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "626"
+    },
+    {
+        "course": "BUSN1200",
+        "section": "001",
+        "instructor": "Kim",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN1200",
+        "section": "002",
+        "instructor": "Pankratz",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "BUSN1200",
+        "section": "005",
+        "instructor": "Ashktorab",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN1200",
+        "section": "050",
+        "instructor": "Ashktorab",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "004",
+        "instructor": "Faundo",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "005",
+        "instructor": "Bania",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "006",
+        "instructor": "Gomes",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "007",
+        "instructor": "Ha",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "008",
+        "instructor": "Bania",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "009",
+        "instructor": "Sveinson",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "010",
+        "instructor": "Sveinson",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "011",
+        "instructor": "Frankson",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "624"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "012",
+        "instructor": "Ha",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "050",
+        "instructor": "Faundo",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "051",
+        "instructor": "Kalia",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "052",
+        "instructor": "Frankson",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "053",
+        "instructor": "Faundo",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN1210",
+        "section": "070",
+        "instructor": "Kalia",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "002",
+        "instructor": "Law",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "003",
+        "instructor": "Law",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "005",
+        "instructor": "Matheson",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "006",
+        "instructor": "Matheson",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "007",
+        "instructor": "Ha",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "051",
+        "instructor": "Ashktorab",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "052",
+        "instructor": "Sveinson",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN2429",
+        "section": "053",
+        "instructor": "Kalia",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3100",
+        "section": "001",
+        "instructor": "Dy",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BUSN3100",
+        "section": "002",
+        "instructor": "Bania",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN3100",
+        "section": "050",
+        "instructor": "Dy",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "BUSN3100",
+        "section": "080",
+        "instructor": "Dy",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3200",
+        "section": "001",
+        "instructor": "Zhang",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN3200",
+        "section": "050",
+        "instructor": "Zhang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN3253",
+        "section": "050",
+        "instructor": "Bania",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN3310",
+        "section": "050",
+        "instructor": "Pankratz",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN3312",
+        "section": "039",
+        "instructor": "Newton",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3350",
+        "section": "002",
+        "instructor": "Faundo",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN3350",
+        "section": "050",
+        "instructor": "Ferens",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN3350",
+        "section": "070",
+        "instructor": "Faundo",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN3351",
+        "section": "050",
+        "instructor": "Minnis",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "624"
+    },
+    {
+        "course": "BUSN3352",
+        "section": "001",
+        "instructor": "Ha",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN3353",
+        "section": "050",
+        "instructor": "Minnis",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "624"
+    },
+    {
+        "course": "BUSN3354",
+        "section": "001",
+        "instructor": "Rahman",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN3380",
+        "section": "002",
+        "instructor": "Sveinson",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "BUSN3380",
+        "section": "050",
+        "instructor": "Sveinson",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "BUSN3386",
+        "section": "001",
+        "instructor": "Zhang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "BUSN3386",
+        "section": "002",
+        "instructor": "Zhang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "BUSN3388",
+        "section": "001",
+        "instructor": "Sveinson",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN3388",
+        "section": "002",
+        "instructor": "Sveinson",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN3390",
+        "section": "002",
+        "instructor": "Ha",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "626"
+    },
+    {
+        "course": "BUSN3390",
+        "section": "050",
+        "instructor": "Frankson",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3410",
+        "section": "002",
+        "instructor": "Rahman",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "909"
+    },
+    {
+        "course": "BUSN3410",
+        "section": "051",
+        "instructor": "Rahman",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "909"
+    },
+    {
+        "course": "BUSN3431",
+        "section": "001",
+        "instructor": "Law",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN3431",
+        "section": "002",
+        "instructor": "Law",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "BUSN3431",
+        "section": "050",
+        "instructor": "Kalia",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "BUSN3500",
+        "section": "002",
+        "instructor": "Rahman",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "909"
+    },
+    {
+        "course": "BUSN3500",
+        "section": "050",
+        "instructor": "Rahman",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "608"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "001",
+        "instructor": "O' Laocha",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "002",
+        "instructor": "O' Laocha",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "003",
+        "instructor": "Kim",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "004",
+        "instructor": "Watt",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "050",
+        "instructor": "Mahmoudi",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "608"
+    },
+    {
+        "course": "BUSN3600",
+        "section": "080",
+        "instructor": "Dy",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "BUSN3610",
+        "section": "002",
+        "instructor": "Gomes",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "BUSN3620",
+        "section": "050",
+        "instructor": "Kim",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN3630",
+        "section": "001",
+        "instructor": "Mahmoudi",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "BUSN4275",
+        "section": "001",
+        "instructor": "Gomes",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN4275",
+        "section": "002",
+        "instructor": "O' Laocha",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "BUSN4275",
+        "section": "050",
+        "instructor": "Gomes",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "608"
+    },
+    {
+        "course": "BUSN4275",
+        "section": "070",
+        "instructor": "Kim",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "BUSN4410",
+        "section": "001",
+        "instructor": "O' Laocha",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "707"
+    },
+    {
+        "course": "BUSN4640",
+        "section": "050",
+        "instructor": "Kim",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "711"
+    },
+    {
+        "course": "CHEM1104",
+        "section": "001",
+        "instructor": "Ochola",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "CHEM1108",
+        "section": "001",
+        "instructor": "Addison-Jones",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CHEM1110",
+        "section": "002",
+        "instructor": "Addison-Jones",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CHEM1150",
+        "section": "001",
+        "instructor": "Zhou",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3902"
+    },
+    {
+        "course": "CHEM1210",
+        "section": "002",
+        "instructor": "Addison-Jones",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CHEM2321",
+        "section": "002",
+        "instructor": "Ochola",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "CHEM2421",
+        "section": "001",
+        "instructor": "Chang",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S3902"
+    },
+    {
+        "course": "CMPT1105",
+        "section": "001",
+        "instructor": "Li",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CMPT1109",
+        "section": "001",
+        "instructor": "Aboofazeli",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CMPT1109",
+        "section": "002",
+        "instructor": "Aboofazeli",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CMPT1209",
+        "section": "001",
+        "instructor": "Aboofazeli",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6111"
+    },
+    {
+        "course": "CMPT1209",
+        "section": "002",
+        "instructor": "Aboofazeli",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CRIM1100",
+        "section": "001",
+        "instructor": "Sporer",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "CRIM1100",
+        "section": "003",
+        "instructor": "Ivers",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CRIM1100",
+        "section": "004",
+        "instructor": "Ivers",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CRIM1120",
+        "section": "001",
+        "instructor": "Lalonde",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM1121",
+        "section": "001",
+        "instructor": "Ivers",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CRIM1150",
+        "section": "006",
+        "instructor": "Perkins",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "CRIM1150",
+        "section": "050",
+        "instructor": "Macnair",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM1160",
+        "section": "050",
+        "instructor": "Sporer",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "DLB",
+        "room": "B2170"
+    },
+    {
+        "course": "CRIM1160",
+        "section": "051",
+        "instructor": "Sporer",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM2140",
+        "section": "002",
+        "instructor": "Macnair",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM2252",
+        "section": "002",
+        "instructor": "Perkins",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N3412"
+    },
+    {
+        "course": "CRIM2252",
+        "section": "050",
+        "instructor": "Perkins",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM2254",
+        "section": "001",
+        "instructor": "Horton",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "CRIM2254",
+        "section": "002",
+        "instructor": "Greaves",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWS",
+        "room": "S1803"
+    },
+    {
+        "course": "CRIM2260",
+        "section": "001",
+        "instructor": "Dowdeswell",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM2260",
+        "section": "051",
+        "instructor": "Dowdeswell",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM3310",
+        "section": "002",
+        "instructor": "Perkins",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "909"
+    },
+    {
+        "course": "CRIM3355",
+        "section": "001",
+        "instructor": "Ivers",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CRIM3365",
+        "section": "001",
+        "instructor": "Reid",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM3386",
+        "section": "050",
+        "instructor": "Lalonde",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CRIM3395",
+        "section": "001",
+        "instructor": "Macnair",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "CSIS1175",
+        "section": "001",
+        "instructor": "Yang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS1175",
+        "section": "002",
+        "instructor": "Yang",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS1175",
+        "section": "003",
+        "instructor": "Clemente",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS1175",
+        "section": "004",
+        "instructor": "Ali",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1175",
+        "section": "005",
+        "instructor": "Ali",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "001",
+        "instructor": "Tan",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "002",
+        "instructor": "Tan",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "003",
+        "instructor": "Caldwell",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "004",
+        "instructor": "Caldwell",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "005",
+        "instructor": "Caldwell",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "006",
+        "instructor": "Liu",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "007",
+        "instructor": "Liu",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "008",
+        "instructor": "Sahiwal",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS1190",
+        "section": "009",
+        "instructor": "Saleem",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1280",
+        "section": "001",
+        "instructor": "Otim",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1280",
+        "section": "002",
+        "instructor": "Otim",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1280",
+        "section": "003",
+        "instructor": "Ghaeli",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1280",
+        "section": "004",
+        "instructor": "Ghaeli",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS1280",
+        "section": "070",
+        "instructor": "Sahiwal",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS2175",
+        "section": "001",
+        "instructor": "Yang",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS2175",
+        "section": "002",
+        "instructor": "Yang",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS2175",
+        "section": "070",
+        "instructor": "Clemente",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "001",
+        "instructor": "Al-Humaimidi",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "002",
+        "instructor": "Al-Humaimidi",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "004",
+        "instructor": "Ma",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "005",
+        "instructor": "Ma",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6111"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "006",
+        "instructor": "Ma",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "007",
+        "instructor": "Ma",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "008",
+        "instructor": "Sen",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N2214"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "009",
+        "instructor": "Sahiwal",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N4308"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "010",
+        "instructor": "Sahiwal",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N4215"
+    },
+    {
+        "course": "CSIS2200",
+        "section": "070",
+        "instructor": "Ali",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS2260",
+        "section": "001",
+        "instructor": "Ng",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2260",
+        "section": "002",
+        "instructor": "Ng",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2260",
+        "section": "003",
+        "instructor": "Al-Humaimidi",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2260",
+        "section": "004",
+        "instructor": "Al-Humaimidi",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2260",
+        "section": "005",
+        "instructor": "Saleem",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS2270",
+        "section": "001",
+        "instructor": "Saleem",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS2270",
+        "section": "003",
+        "instructor": "Ng",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2270",
+        "section": "004",
+        "instructor": "Ng",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "CSIS2270",
+        "section": "005",
+        "instructor": "Saleem",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS2300",
+        "section": "001",
+        "instructor": "Ma",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS2300",
+        "section": "002",
+        "instructor": "Eng",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS2300",
+        "section": "003",
+        "instructor": "Tan",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CSIS2300",
+        "section": "004",
+        "instructor": "Tan",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3155",
+        "section": "001",
+        "instructor": "Vitus",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS3155",
+        "section": "002",
+        "instructor": "Vitus",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS3160",
+        "section": "001",
+        "instructor": "Vitus",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3175",
+        "section": "050",
+        "instructor": "Abbasi",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS3175",
+        "section": "070",
+        "instructor": "Abbasi",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS3275",
+        "section": "001",
+        "instructor": "Clemente",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS3275",
+        "section": "070",
+        "instructor": "Clemente",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "CSIS3280",
+        "section": "001",
+        "instructor": "Sarif",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS3290",
+        "section": "001",
+        "instructor": "Sarif",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3290",
+        "section": "002",
+        "instructor": "Sarif",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3300",
+        "section": "001",
+        "instructor": "Ma",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3300",
+        "section": "002",
+        "instructor": "Ma",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3300",
+        "section": "003",
+        "instructor": "Ma",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6111"
+    },
+    {
+        "course": "CSIS3360",
+        "section": "001",
+        "instructor": "Otim",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N6107"
+    },
+    {
+        "course": "CSIS3360",
+        "section": "002",
+        "instructor": "Wong",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "CSIS3380",
+        "section": "001",
+        "instructor": "Ghaeli",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3380",
+        "section": "002",
+        "instructor": "Ghaeli",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3475",
+        "section": "001",
+        "instructor": "Liu",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3475",
+        "section": "002",
+        "instructor": "Bashir",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "CSIS3475",
+        "section": "050",
+        "instructor": "Liu",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3560",
+        "section": "001",
+        "instructor": "Sarif",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N6109"
+    },
+    {
+        "course": "CSIS3860",
+        "section": "001",
+        "instructor": "Otim",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS4175",
+        "section": "050",
+        "instructor": "Abbasi",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N5107"
+    },
+    {
+        "course": "CSIS4175",
+        "section": "070",
+        "instructor": "Abbasi",
+        "date": "Sat, Aug 12, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "N5109"
+    },
+    {
+        "course": "CSIS4470",
+        "section": "001",
+        "instructor": "Vitus",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5111"
+    },
+    {
+        "course": "EAES1120",
+        "section": "002",
+        "instructor": "Griffing",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3805"
+    },
+    {
+        "course": "EAES1201",
+        "section": "002",
+        "instructor": "Vera Gamboa",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3805"
+    },
+    {
+        "course": "ECON1101",
+        "section": "001",
+        "instructor": "Tawfeeq",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N4215"
+    },
+    {
+        "course": "ECON1101",
+        "section": "002",
+        "instructor": "Demeke",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1101",
+        "section": "003",
+        "instructor": "Demeke",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1103",
+        "section": "002",
+        "instructor": "Teng",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "ECON1150",
+        "section": "001",
+        "instructor": "Matadeen",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ECON1150",
+        "section": "002",
+        "instructor": "Matadeen",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "ECON1150",
+        "section": "005",
+        "instructor": "Matadeen",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "ECON1150",
+        "section": "006",
+        "instructor": "Xia",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "ECON1150",
+        "section": "050",
+        "instructor": "Matadeen",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N4310"
+    },
+    {
+        "course": "ECON1250",
+        "section": "001",
+        "instructor": "Xia",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1250",
+        "section": "002",
+        "instructor": "Demeke",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1250",
+        "section": "003",
+        "instructor": "Demeke",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1250",
+        "section": "004",
+        "instructor": "Xia",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "ECON1250",
+        "section": "050",
+        "instructor": "Teng",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "NWN",
+        "room": "N4360"
+    },
+    {
+        "course": "ECON2408",
+        "section": "001",
+        "instructor": "Tawfeeq",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "ECON3408",
+        "section": "001",
+        "instructor": "Xia",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "ENGL1106",
+        "section": "001",
+        "instructor": "Szymanski",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "ENGL1106",
+        "section": "002",
+        "instructor": "Szymanski",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "FINC1231",
+        "section": "001",
+        "instructor": "Hosseini Ghinani",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "FINC1231",
+        "section": "002",
+        "instructor": "Hosseini Ghinani",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "FINC1231",
+        "section": "003",
+        "instructor": "Lu",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:00",
+        "bldg": "AOT",
+        "room": "625"
+    },
+    {
+        "course": "FINC1231",
+        "section": "004",
+        "instructor": "Scholz",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "FINC1231",
+        "section": "050",
+        "instructor": "Scholz",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "FINC1231",
+        "section": "051",
+        "instructor": "Kwon",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "708"
+    },
+    {
+        "course": "FINC2300",
+        "section": "001",
+        "instructor": "Lu",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:00",
+        "bldg": "AOT",
+        "room": "625"
+    },
+    {
+        "course": "FINC2300",
+        "section": "050",
+        "instructor": "Lu",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:30",
+        "bldg": "NWN",
+        "room": "N4370"
+    },
+    {
+        "course": "FINC2340",
+        "section": "001",
+        "instructor": "Yamamoto",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "907"
+    },
+    {
+        "course": "FINC2340",
+        "section": "003",
+        "instructor": "Scholz",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "FINC2340",
+        "section": "050",
+        "instructor": "Scholz",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "FINC2340",
+        "section": "051",
+        "instructor": "Xue",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "608"
+    },
+    {
+        "course": "FINC3300",
+        "section": "001",
+        "instructor": "Lu",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:00",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "FINC3370",
+        "section": "001",
+        "instructor": "Hosseini Ghinani",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "FINC3390",
+        "section": "050",
+        "instructor": "Scholz",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "FINC4360",
+        "section": "052",
+        "instructor": "Yamamoto",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "FINC4380",
+        "section": "050",
+        "instructor": "Hosseini Ghinani",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "AOT",
+        "room": "626"
+    },
+    {
+        "course": "GEOG1100",
+        "section": "001",
+        "instructor": "Sumartojo",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "GEOG1100",
+        "section": "002",
+        "instructor": "Sumartojo",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:00",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "GEOG1110",
+        "section": "001",
+        "instructor": "Crowley",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "GEOG1110",
+        "section": "002",
+        "instructor": "Crowley",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "GEOG1110",
+        "section": "003",
+        "instructor": "Crowley",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "GEOG1120",
+        "section": "001",
+        "instructor": "Crowley",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "N3412"
+    },
+    {
+        "course": "HIST1103",
+        "section": "001",
+        "instructor": "Brooks",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "HIST1103",
+        "section": "001",
+        "instructor": "Brooks",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "HIST1103",
+        "section": "001",
+        "instructor": "Brooks",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "HIST1103",
+        "section": "002",
+        "instructor": "Brooks",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "HIST1113",
+        "section": "001",
+        "instructor": "Beninger",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "HIST1114",
+        "section": "002",
+        "instructor": "Beninger",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "HIST1114",
+        "section": "050",
+        "instructor": "Beninger",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "HIST1125",
+        "section": "001",
+        "instructor": "Brooks",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "HIST1195",
+        "section": "001",
+        "instructor": "Brooks",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "HIST3315",
+        "section": "001",
+        "instructor": "Beninger",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "HSCI1100",
+        "section": "001",
+        "instructor": "Visosky",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLD",
+        "room": "D2010"
+    },
+    {
+        "course": "LGST1120",
+        "section": "050",
+        "instructor": "Sporer",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "DLB",
+        "room": "B2170"
+    },
+    {
+        "course": "LGST2210",
+        "section": "050",
+        "instructor": "Dowdeswell",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "MARK1120",
+        "section": "001",
+        "instructor": "Moshiri",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "MARK1120",
+        "section": "002",
+        "instructor": "Moshiri",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "MARK1120",
+        "section": "003",
+        "instructor": "Kuch",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "MARK1120",
+        "section": "004",
+        "instructor": "Kuch",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "MARK1120",
+        "section": "005",
+        "instructor": "Singh",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK1120",
+        "section": "006",
+        "instructor": "Atun",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK1120",
+        "section": "007",
+        "instructor": "Beech",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "MARK1120",
+        "section": "008",
+        "instructor": "Chiang",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "MARK1120",
+        "section": "009",
+        "instructor": "Birnfeld Kurtz",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK1120",
+        "section": "050",
+        "instructor": "Singh",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK1120",
+        "section": "051",
+        "instructor": "Ling",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "MARK1120",
+        "section": "052",
+        "instructor": "Stephanus",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "AOT",
+        "room": "808"
+    },
+    {
+        "course": "MARK1120",
+        "section": "053",
+        "instructor": "Ling",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "MARK3215",
+        "section": "001",
+        "instructor": "Atun",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "MARK3215",
+        "section": "002",
+        "instructor": "Atun",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "910/911"
+    },
+    {
+        "course": "MARK3215",
+        "section": "004",
+        "instructor": "Sethi",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "624"
+    },
+    {
+        "course": "MARK3235",
+        "section": "001",
+        "instructor": "Tanveer",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK3235",
+        "section": "002",
+        "instructor": "Tanveer",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK3235",
+        "section": "003",
+        "instructor": "Birnfeld Kurtz",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "AOT",
+        "room": "816"
+    },
+    {
+        "course": "MARK3300",
+        "section": "001",
+        "instructor": "Beech",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "607"
+    },
+    {
+        "course": "MARK3300",
+        "section": "002",
+        "instructor": "Singh",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "\nAOT\nNWN\n",
+        "room": "\n624\nN5107\n"
+    },
+    {
+        "course": "MARK3300",
+        "section": "050",
+        "instructor": "Beech",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "21:00",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "MARK3340",
+        "section": "001",
+        "instructor": "Keighron",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "AOT",
+        "room": "609"
+    },
+    {
+        "course": "MARK3340",
+        "section": "002",
+        "instructor": "Keighron",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "624"
+    },
+    {
+        "course": "MARK3490",
+        "section": "001",
+        "instructor": "Atun",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "AOT",
+        "room": "608"
+    },
+    {
+        "course": "MARK4240",
+        "section": "001",
+        "instructor": "Beech",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "AOT",
+        "room": "809"
+    },
+    {
+        "course": "MARK4420",
+        "section": "002",
+        "instructor": "Khanduwala",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "MATH1101",
+        "section": "001",
+        "instructor": "Huang",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "MATH1105",
+        "section": "001",
+        "instructor": "Anisef",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1110",
+        "section": "001",
+        "instructor": "Rozman",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1110",
+        "section": "002",
+        "instructor": "Rozman",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1120",
+        "section": "001",
+        "instructor": "Marquise",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLA",
+        "room": "A2050"
+    },
+    {
+        "course": "MATH1120",
+        "section": "002",
+        "instructor": "Funk",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1120",
+        "section": "003",
+        "instructor": "Funk",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1120",
+        "section": "004",
+        "instructor": "Anisef",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1125",
+        "section": "001",
+        "instructor": "Anisef",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1130",
+        "section": "001",
+        "instructor": "Funk",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1160",
+        "section": "001",
+        "instructor": "Marquise",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "MATH1160",
+        "section": "002",
+        "instructor": "Meichsner",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1160",
+        "section": "003",
+        "instructor": "Meichsner",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1191",
+        "section": "001",
+        "instructor": "Meichsner",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1220",
+        "section": "001",
+        "instructor": "Anisef",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1220",
+        "section": "002",
+        "instructor": "Anisef",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH1234",
+        "section": "001",
+        "instructor": "Moulding",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "MATH2210",
+        "section": "001",
+        "instructor": "Schurch",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH2210",
+        "section": "002",
+        "instructor": "Schurch",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH2230",
+        "section": "001",
+        "instructor": "Funk",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH2321",
+        "section": "001",
+        "instructor": "Meichsner",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "MATH3316",
+        "section": "001",
+        "instructor": "Moulding",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "MATU0210",
+        "section": "001",
+        "instructor": "Riley",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "712"
+    },
+    {
+        "course": "MATU0310",
+        "section": "001",
+        "instructor": "McManus",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "MATU0410",
+        "section": "001",
+        "instructor": "McManus",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "MATU0410",
+        "section": "002",
+        "instructor": "McManus",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "MATU0411",
+        "section": "001",
+        "instructor": "Riley",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "PHIL1101",
+        "section": "001",
+        "instructor": "Cutler",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "PHIL1101",
+        "section": "002",
+        "instructor": "Cutler",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "PHIL1103",
+        "section": "001",
+        "instructor": "Hadley",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "14:00",
+        "bldg": "NWN",
+        "room": "N3302"
+    },
+    {
+        "course": "PHIL2245",
+        "section": "001",
+        "instructor": "Cutler",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PHIL3300",
+        "section": "001",
+        "instructor": "Cutler",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N3408"
+    },
+    {
+        "course": "PHYS1104",
+        "section": "001",
+        "instructor": "Prat",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "PHYS1104",
+        "section": "002",
+        "instructor": "Prat",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1812/S1814"
+    },
+    {
+        "course": "PHYS1107",
+        "section": "001",
+        "instructor": "Kirkey",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "PHYS1107",
+        "section": "002",
+        "instructor": "Kirkey",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "PHYS1107",
+        "section": "003",
+        "instructor": "Kirkey",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "PHYS1107",
+        "section": "004",
+        "instructor": "Kirkey",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWN",
+        "room": "GYM"
+    },
+    {
+        "course": "PHYS1210",
+        "section": "001",
+        "instructor": "Kirkey",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "PHYS1210",
+        "section": "002",
+        "instructor": "Kirkey",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "PSYC1100",
+        "section": "004",
+        "instructor": "Meen",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PSYC1100",
+        "section": "009",
+        "instructor": "Thompson",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "PSYC1100",
+        "section": "011",
+        "instructor": "Nadeau",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "PSYC1100",
+        "section": "090",
+        "instructor": "Charlton",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC1130",
+        "section": "001",
+        "instructor": "van Norden",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:00",
+        "bldg": "NWS",
+        "room": "S3825"
+    },
+    {
+        "course": "PSYC1130",
+        "section": "050",
+        "instructor": "van Norden",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "19:00",
+        "end_time": "20:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC1200",
+        "section": "001",
+        "instructor": "Atwal",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "PSYC1200",
+        "section": "004",
+        "instructor": "Parhar",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "NWN",
+        "room": "N4306"
+    },
+    {
+        "course": "PSYC1200",
+        "section": "005",
+        "instructor": "Atwal",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWS",
+        "room": "S1650/S1670"
+    },
+    {
+        "course": "PSYC2300",
+        "section": "002",
+        "instructor": "Dane",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "DLA",
+        "room": "A1170"
+    },
+    {
+        "course": "PSYC2301",
+        "section": "003",
+        "instructor": "Thompson",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "AOT",
+        "room": "807"
+    },
+    {
+        "course": "PSYC2315",
+        "section": "001",
+        "instructor": "Jones",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30 \n12:00",
+        "end_time": "11:30 \n15:00",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PSYC2315",
+        "section": "002",
+        "instructor": "Jones",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "8:30 \n12:00",
+        "end_time": "11:30 \n15:00",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PSYC2341",
+        "section": "001",
+        "instructor": "Meen",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PSYC2341",
+        "section": "002",
+        "instructor": "Howell",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC2341",
+        "section": "003",
+        "instructor": "Howell",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC2360",
+        "section": "090",
+        "instructor": "Charlton",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC2360",
+        "section": "091",
+        "instructor": "Charlton",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC3120",
+        "section": "001",
+        "instructor": "Howell",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC3305",
+        "section": "001",
+        "instructor": "Jones",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWS",
+        "room": "S1711"
+    },
+    {
+        "course": "PSYC3309",
+        "section": "001",
+        "instructor": "Jones",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "NWN",
+        "room": "N3406"
+    },
+    {
+        "course": "PSYC3320",
+        "section": "001",
+        "instructor": "van Norden",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:00",
+        "bldg": "NWS",
+        "room": "S0640"
+    },
+    {
+        "course": "PSYC3320",
+        "section": "002",
+        "instructor": "van Norden",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:00",
+        "bldg": "DLC",
+        "room": "C1011"
+    },
+    {
+        "course": "PSYC3330",
+        "section": "001",
+        "instructor": "Parhar",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "15:30",
+        "end_time": "18:30",
+        "bldg": "NWS",
+        "room": "S3820"
+    },
+    {
+        "course": "PSYC3333",
+        "section": "001",
+        "instructor": "Howell",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "PSYC3365",
+        "section": "001",
+        "instructor": "Thompson",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "8:30",
+        "end_time": "11:30",
+        "bldg": "NWN",
+        "room": "N5105"
+    },
+    {
+        "course": "PSYC3904",
+        "section": "090",
+        "instructor": "Charlton",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "12:00",
+        "end_time": "15:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOCI1125",
+        "section": "005",
+        "instructor": "Tseng",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "SOCI1125",
+        "section": "006",
+        "instructor": "Tseng",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "8:30",
+        "end_time": "10:30",
+        "bldg": "DLC",
+        "room": "C1008/C1009"
+    },
+    {
+        "course": "SOCI1125",
+        "section": "090",
+        "instructor": "Geleta",
+        "date": "Tue, Aug 15, 2023",
+        "begin_time": "15:30",
+        "end_time": "16:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOCI1125",
+        "section": "091",
+        "instructor": "Geleta",
+        "date": "Wed, Aug 16, 2023",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOCI1155",
+        "section": "090",
+        "instructor": "Geleta",
+        "date": "Fri, Aug 11, 2023",
+        "begin_time": "8:30",
+        "end_time": "9:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOCI2225",
+        "section": "090",
+        "instructor": "Geleta",
+        "date": "Mon, Aug 14, 2023",
+        "begin_time": "12:00",
+        "end_time": "13:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOSC2140",
+        "section": "001",
+        "instructor": "Rodwell",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOSC2140",
+        "section": "090",
+        "instructor": "Rodwell",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "SOSC2140",
+        "section": "091",
+        "instructor": "Rodwell",
+        "date": "Fri, Aug 18, 2023",
+        "begin_time": "15:30",
+        "end_time": "17:30",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    },
+    {
+        "course": "THRT2407",
+        "section": "050",
+        "instructor": "Duckworth",
+        "date": "Thu, Aug 17, 2023",
+        "begin_time": "19:00",
+        "end_time": "22:00",
+        "bldg": "ONLINE",
+        "room": "ONLINE"
+    }
+]

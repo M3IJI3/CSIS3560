@@ -1,0 +1,999 @@
+    3  ls -l 
+    4  mkdir week01
+   10  ls -al 
+   17  hostory
+   19  cd week01
+   20  ls
+   21  history >> test.txt
+   22  ls
+   23  tail test.txt
+   24  rm test.txt
+   25  ls
+   26  clear
+   27  vim .config/qterminal.org/qterminal.ini
+   28  vim ~/home/.config/qterminal.org/qterminal.ini
+   29  cd ..
+   30  ls
+   31  cd ..
+   32  ls
+   33  cd ..
+   34  ls 
+   35  ls -l
+   36  sudo su
+   37  clear
+   38  ls
+   39  cd
+   40  clear
+   41  ls
+   42  ls -l
+   43  clear
+   44  ls -al
+   45  clear
+   46  bash
+   47  whoami
+   48  pwd
+   49  whatis ls
+   50  clear
+   51  type
+   52  which is
+   53  which ls
+   54  ls --color
+   55  clear
+   56  umask
+   57  ls -al
+   58  clear
+   59  cal
+   60  date
+   61  clear
+   62  df
+   63  free
+   64  df
+   65  cd bin
+   66  cd ./bin
+   67  pwd
+   68  clear
+   69  ls -al
+   70  ls -A
+   71  ls -Al
+   72  clear
+   73  ls -lt
+   74  ls -l
+   75  clear
+   76  ls 
+   77  cd Downloads
+   78  ls
+   79  ckear
+   80  clear
+   81  less man ls 
+   82  less | man ls
+   83  less /etc/passwd
+   84  cd
+   85  cd week01
+   86  mkdir playground
+   87  ls
+   88  cd playground
+   89  mkdir dir1 dir2
+   90  ls
+   91  cp /etc/passwd .
+   92  ls
+   93  ls -l
+   94  cp -v /etc/passwd .
+   95  ls
+   96  ls -l
+   97  cp -i /etc/passwd 
+   98  cp -i /etc/passwd
+   99  cp -i /etc/passwd .
+  100  ls -l
+  101  clear
+  102  ls -l
+  103  mv passwd fun
+  104  ls -l
+  105  mv fun dir1
+  106  ls
+  107  cd dir1
+  108  ls -l
+  109  cd ..
+  110  mv dir1/fun dir2
+  111  ls 
+  112  ls -al
+  113  ls -Al
+  114  cd dir2
+  115  ls 
+  116  ls -l
+  117  clear
+  118  cd ..
+  119  clear
+  120  mv dir2/fun .
+  121  ls
+  122  mv fun dir1
+  123  mv dir1 dir2
+  124  ls
+  125  cd dir2
+  126  ls
+  127  cd dir1
+  128  ls
+  129  clear
+  130  cd ..
+  131  ls
+  132  ls -l dir2
+  133  ls
+  134  ls -l dir2/dir1
+  135  ls
+  136  clear
+  137  ls dir2/dir1
+  138  ls
+  139  mv dir2/dir1 .
+  140  ls
+  141  locate fun
+  142  whereis fun
+  143  clear
+  144  ls
+  145  ls -l dir1
+  146  mv dir1/fun .
+  147  ls
+  148  ln fun fun-hard
+  149  ln fun dir1/fun-hard
+  150  ln fun dir2/fun-hard
+  151  ls
+  152  ls -al
+  153  clear
+  154  ls -l
+  155  less fun-hard
+  156  head fun-hard
+  157  ls -l dir1
+  158  ls -li
+  159  clear
+  160  ln -s fun fun-sym
+  161  ls
+  162  ls -l
+  163  clear
+  164  ln -s ../fun dir1/fun-sym
+  165  ls -l
+  166  ln -s ../fun dir2/fun-sym
+  167  ls -s
+  168  ls -l
+  169  clear
+  170  ls -l dir1
+  171  cd dir1
+  172  ls
+  173  ls -li
+  174  cd ..
+  175  ls -li
+  176  clear
+  177  ln -s dir1 dir1-sym
+  178  ls -l
+  179  rm fun-hard
+  180  ls -l
+  181  rm -i fun
+  182  ls -l
+  183  less fun-sym
+  184  rm fun-sym dir1-sym
+  185  ls
+  186  cd
+  187  cd week01
+  188  rmdir playground
+  189  rm -r playground
+  190  ls
+  191  ls -l
+  192  history
+  193  ls -l
+  194  cd
+  195  clear
+  196  ls
+  197  clear
+  198  ls
+  199  cd
+  200  clear
+  201  ls
+  202  clear
+  203  tail /etc/passwd
+  204  tail -1 /etc/passwd
+  205  man tail
+  206  sudo tail -1 /etc/shadow
+  207  id
+  208  ls
+  209  clear
+  210  mkdir week02
+  211  ls
+  212  cd week01
+  213  cd
+  214  cd week01
+  215  ls
+  216  cd
+  217  clear
+  218  cd week02
+  219  id jie433
+  220  sudo groupadd csis3560
+  221  cat /etc/group
+  222  sudo usermod -a -G csis3560 jie433
+  223  id douglas
+  224  clear
+  225  id
+  226  cd week02
+  227  ls
+  228  exit
+  229  id
+  230  cd week02
+  231  history
+  232  clear
+  233  ls /var
+  234  ls -ld /var
+  235  ls -l /var
+  236  sudo mkdir /var/temp
+  237  ls -l
+  238  ls -l var
+  239  ls -l /var
+  240  sudo chgrp csis3560 /var/temp
+  241  sudo chmod 775 /var/temp
+  242  ls -l /var
+  243  su - douglas
+  244  useradd douglas
+  245  sudo useradd douglas
+  246  su - douglas
+  247  douglas
+  248  su douglas
+  249  cds
+  250  clear
+  251  id
+  252  tail -i /etc/passwd
+  253  tail /etc/passwd
+  254  useradd douglas
+  255  su - douglas
+  256  c
+  257  clear
+  258  sudo userdel douglas
+  259  su douglas
+  260  ckear
+  261  clear
+  262  sudo useradd douglas 
+  263  sudo passwd douglas
+  264  su - douglas
+  265  cd week0
+  266  cd week02
+  267  ls
+  268  sudo userdel douglas
+  269  clear
+  270  su douglas
+  271  cd
+  272  clear
+  273  sudo useradd douglas
+  274  sudo vi /etc/passwd
+  275  sudo passwd douglas
+  276  su douglas
+  277  clear
+  278  sudo userdel douglas
+  279  clear
+  280  cd ..
+  281  ls
+  282  cd //
+  283  cd ..
+  284  ls
+  285  cd usr
+  286  ls
+  287  cd  ..
+  288  cd home
+  289  ls
+  290  clear
+  291  cd
+  292  sudo passwd jie433
+  293  clear
+  294  su - douglas -c "ls -al"
+  295  history
+  296  clear
+  297  ls -l /car
+  298  ls -l /var
+  299  man chgrp
+  300  clear
+  301  cd week02
+  302  echo "Redirection and pipeline"
+  303  ls -l /var
+  304  ls -l /var > lsout.txt
+  305  ls
+  306  cat lsout.txt
+  307  clear
+  308  cat lsout.txt
+  309  ls
+  310  echo "The content of /var" >> file.txt
+  311  ls
+  312  rm file.txt
+  313  echo "The content of /var" >> lsout.txt
+  314  cat lsout.txt
+  315  clear
+  316  history
+  317  clear
+  318  ls -al
+  319  ls l
+  320  ls -l
+  321  ls -l mkdir 2 >&lserror.txt
+  322  ls
+  323  car lserror.txt
+  324  cat lserror.txt
+  325  rm lserror.txt
+  326  ls
+  327  clear
+  328  ls -l mydir 2>lserror.txt
+  329  ls
+  330  cat lserror.txt
+  331  ls -l mydir > lsmydir.txt 2>&1
+  332  ls
+  333  cat lsmydir.txt
+  334  ls -l mydir > temp.txt
+  335  clear
+  336  ls /usr/bin /bin  | sort
+  337  ls /usr/bin /bin  | sort | wc
+  338  ls /usr/bin /bin  | sort | uniq | wc
+  339  ls /etc/passwd | wc
+  340  ls /etc/passwd /passwd | uniq  | wc
+  341  cat /etc/passwd | wc
+  342  wc
+  343  man wc
+  344  cat /etc/passwd | wc -l
+  345  man wc
+  346  cat /etc/passwd | wc -c
+  347  cat /etc/passwd | wc -m
+  348  man cat
+  349  man wc
+  350  clear
+  351  ls /var/bin
+  352  history
+  353  clear
+  354  ls
+  355  cat temp.txt
+  356  rm temp.txt
+  357  ls
+  358  clear
+  359  man sort
+  360  ma shuf
+  361  man shuf
+  362  clear
+  363  man cut
+  364  cat /etc/passwd
+  365  cat /etc/passwd | cut :
+  366  cut --help
+  367  clear
+  368  ls /var/log
+  369  cat /var/log/boot.log
+  370  sudo cat /var/log/boot.log
+  371  clear
+  372  ls /var/log
+  373  ls /var/log/alternatives.log
+  374  ls /var
+  375  sudo apt-get install --reinstall rsyslog
+  376  sudo service rsyslog start
+  377  sudo service rsyslog status
+  378  ls /var/log
+  379  cat /var/log/syslog
+  380  clear
+  381  cat /var/log/syslog
+  382  cat /var/log/syslog | grep jie433
+  383  cat /var/log/auth.log | grep jie433
+  384  exit
+  385  sudo vi /etc/passwd
+  386  su root
+  387  su root 
+  388  clear
+  389  useradd douglas
+  390  sudo useradd -m douglas
+  391  sudo passwd douglas
+  392  su douglas
+  393  sudo userdel douglas
+  394  clear
+  395  su douglas
+  396  clear
+  397  sudo adduser douglas
+  398  su douglas
+  399  su - douglas -c "ls -al"
+  400  su douglas -c "ls -al"
+  401  su douglas
+  402  ls -l /var
+  403  cd temp
+  404  cd /var/temp
+  405  ls
+  406  clear
+  407  touch myfile.txt
+  408  rm myfile.txt
+  409  su - douglas
+  410  cat /var/log/auth.log | grep jie433
+  411  cat /var/log/auth.log | grep failure
+  412  cat /var/log/syslog
+  413  head -5 /var/log/syslog
+  414  clear
+  415  head -5 /var/log/syslog
+  416  ls /usr/share/metasploit-framework/data/wordlists
+  417  grep spiderman /usr/share/metasploit-framework/data/wordlists/*
+  418  tail -1 /etc/passwd
+  419  clear
+  420  tail -1 /etc/passwd
+  421  tail -1 /etc/passwd | cut -d: -f1
+  422  tail -1 /etc/passwd | cut -d: -f1,6
+  423  tail -1 /etc/passwd | awk -f":" '{print $1}'
+  424  sudo tail -1 /etc/passwd | awk -f":" '{print $1}'
+  425  tail -1 /etc/passwd | awk -F":" '{print $1}'
+  426  ls -al | awk -F" " '{print $5}'
+  427  cd week02
+  428  ls -al | awk -F" " '{print $5}'
+  429  ls -al
+  430  ls -al | awk -F" " '{sum += $5} END{print sum}'
+  431  ls -al | awk -F" " '{$9 $6 $7}'
+  432  ls -al | awk -F" " '{$9,6,7}'
+  433  ls -al | awk -F" " '{$9}'
+  434  ls -al | awk -F" " '{$8}'
+  435  ls -al | awk -F" " '{print $8}'
+  436  ls -al | awk -F" " '{print $9 $6 $7}'
+  437  ls -al | awk -F" " '{print $9}'
+  438  histhistory 
+  439  history
+  440  clear
+  441  cat /etc/group
+  442  cat /etc/group | wc 
+  443  cat /etc/group | wc -c
+  444  man wcx
+  445  man wc
+  446  cat /etc/group | wc -l
+  447  clear
+  448  cat /var/log | grep log
+  449  cat /var/log/* | grep log
+  450  cat /var/log/* | grep log | wc 
+  451  cat /var/log/*/* | grep log | wc 
+  452  cat /var/log | grep log | wc 
+  453  clear
+  454  ls -l /var/log
+  455  ls -l /var/log | grep log 
+  456  ls -l /var/log | grep log | wc 
+  457  ls -l /var/log | grep log | wc -l
+  458  clear
+  459  cat /etc/passwd
+  460  clear
+  461  tail -1 /etc/passwd
+  462  cat /etc/passwd | grep nonexistent
+  463  cat /etc/passwd | grep nonexistent | cut -d: -f1
+  464  cat /etc/passwd | grep nonexistent | awk -F":" '{print $1}'
+  465  vi practice.txt
+  466  ls
+  467  cat practice.txt
+  468  history
+  469  vi squidaccess.log
+  470  clear
+  471  cat squidaccess.log
+  472  cat squidaccess.log | awk -F" " '{print $3}'
+  473  man wc
+  474  man sort
+  475  cat squidaccess.log | awk -F" " '{print $3}' | sort | uniq
+  476  clear
+  477  ls
+  478  ls -l
+  479  clear
+  480  vi myfile
+  481  ls
+  482  cat myfile
+  483  vi myfile
+  484  vi myscript.sh
+  485  ./myscript.sh
+  486  ls -l myscript.sh
+  487  chmod 755 myscript.sh
+  488  ls -l myscript.sh
+  489  ls
+  490  ls -l
+  491  ./myscript.sh
+  492  vi myscript.sh
+  493  history > week02_practice_commands
+  494  ls
+  495  ls -l
+  496  cat week02_practice_commands
+  497  ls
+  498  cd week02
+  499  ls
+  500  ls -l
+  501  cat week02_practice_commands
+  502  ls
+  503  clear
+  504  ifconfig 
+  505  clear
+  506  sudo mount -t vboxsf Shared /home/jie433/SHARED
+  507  sudo adduser user01
+  508  sudo adduser user02
+  509  cd ..
+  510  ls
+  511  ls -l
+  512  cd
+  513  sudo chgrp -a -G sudo user01
+  514  sudo usermod -a -G sudo user01
+  515  sudo usermod -a -G sudo user02
+  516  history
+  517  clear
+  518  sudo usermod -a -G sudo user01
+  519  sudo usermod -a -G sudo user02
+  520  su - fakeuser
+  521  su - fakeuser0
+  522  su - fakeuser1
+  523  mkdir part2
+  524  ls
+  525  cd part2
+  526  vi part2_jme433.sh
+  527  ls
+  528  ls -l
+  529  chmod 755 part2_jme433.sh
+  530  ./part2_jme433.sh
+  531  vi part2_jme433.sh
+  532  ./part2_jme433.sh
+  533  whoami
+  534  hostname
+  535  clear
+  536  vi part2_jme433.sh
+  537  ./part2_jme433.sh
+  538  hostname
+  539  vi part2_jme433.sh
+  540  ./part2_jme433.sh
+  541  vi part2_jme433.sh
+  542  ./part2_jme433.sh
+  543  vi part2_jme433.sh
+  544  ./part2_jme433.sh
+  545  vi part2_jme433.sh
+  546  clear
+  547  ./part2_jme433.sh
+  548  vi part2_jme433.sh
+  549  ./part2_jme433.sh
+  550  hostname
+  551  sudo service networking restart
+  552  ./part2_jme433.sh
+  553  hostname
+  554  vi part2_jme433.sh
+  555  ./part2_jme433.sh
+  556  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print $3}' | awk '{print $1}'
+  557  uptime 
+  558  uptime
+  559  who 
+  560  w
+  561  su - user01
+  562  su user01
+  563  su - fakeuser
+  564  su - fakeuser02
+  565  cat /etc/log/auth.log | grep failure
+  566  cat /var/log/auth.log | grep failure
+  567  sudo su test
+  568  sudo su test01
+  569  sudo su test02
+  570  cat /var/log/auth.log | grep failure
+  571  su - user01
+  572  cat /var/log/auth.log | grep failure
+  573  cd
+  574  ls
+  575  cd week02
+  576  ls
+  577  vi myscript.sh
+  578  ./myscript.sh
+  579  cat myscript.sh
+  580  vi myscript.sh
+  581  ls
+  582  cd part2
+  583  ls
+  584  ls -l
+  585  ./part2_jme433.sh
+  586  vi part2_jme433.sh
+  587  ./part2_jme433.sh
+  588  host
+  589  clear
+  590  vi part2_jme433.sh
+  591  ./part2_jme433.sh
+  592  vi part2_jme433.sh
+  593  ./part2_jme433.sh
+  594  vi part2_jme433.sh
+  595  ./part2_jme433.sh
+  596  vi part2_jme433.sh
+  597  ./part2_jme433.sh
+  598  vi part2_jme433.sh
+  599  rm part2_jme433.sh
+  600  ls
+  601  vi part2_jme433.sh
+  602  chmod 755 part2_jme433.sh
+  603  ls-l
+  604  ls -l
+  605  clear
+  606  ./part2_jme433.sh
+  607  host
+  608  clear
+  609  vi part2_jme433.sh
+  610  cd
+  611  ls
+  612  cd week02
+  613  ls
+  614  vi myscript.sh
+  615  ./myscript.sh
+  616  cat myscript.sh
+  617  vi myscript.sh
+  618  ls
+  619  cd part2
+  620  ls
+  621  ls -l
+  622  ./part2_jme433.sh
+  623  vi part2_jme433.sh
+  624  ./part2_jme433.sh
+  625  host
+  626  clear
+  627  vi part2_jme433.sh
+  628  ./part2_jme433.sh
+  629  vi part2_jme433.sh
+  630  ./part2_jme433.sh
+  631  vi part2_jme433.sh
+  632  ./part2_jme433.sh
+  633  vi part2_jme433.sh
+  634  ./part2_jme433.sh
+  635  vi part2_jme433.sh
+  636  rm part2_jme433.sh
+  637  ls
+  638  vi part2_jme433.sh
+  639  chmod 755 part2_jme433.sh
+  640  ls-l
+  641  ls -l
+  642  clear
+  643  ./part2_jme433.sh
+  644  host
+  645  clear
+  646  vi part2_jme433.sh
+  647  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print $3}' | awk '{print $1}'
+  648  ps -ax
+  649  ps -ax | wc -l
+  650  uptime
+  651  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print $3}' | awk '{print $1}'
+  652  uptime | awk -F ',' 'print $3'
+  653  uptime | awk -F ',' '{print $3}'
+  654  man uptime
+  655  uptime
+  656  uptime | awk -F 'average:' '{print $2}' | awk -F ',' '{print$3}'
+  657  user
+  658  users
+  659  who 
+  660  w
+  661  who
+  662  who -l
+  663  who | wc -l
+  664  cat /etc/passwd
+  665  clear
+  666  cat /etc/passwd
+  667  CLEAR
+  668  clear
+  669  cat /etc/passwd | grep nologin
+  670  cat /etc/passwd | grep nologin | wc -l
+  671  cat /etc/passwd
+  672  clear
+  673  cat /etc/group/sudo
+  674  cat /etc/group
+  675  cat /etc/group | grep sudo
+  676  man wc
+  677  cat /etc/group | grep sudo | wc -c ','
+  678  cat /etc/group | grep sudo | wc -c
+  679  man wc
+  680  cat /etc/group | grep sudo | awk -F ':' '{print $4}'
+  681  cat /etc/group | grep sudo | awk -F ':' '{print $4}' | wc -w
+  682  man wc
+  683  grep -c '^sudo:' /etc/group
+  684  man grep
+  685  cat /etc/group | grep sudo
+  686  cat /etc/group | grep sudo | grep -c ,
+  687  cat /etc/group | grep sudo | grep -c ','
+  688  cat /etc/group | grep sudo | grep -c ","
+  689  cat /etc/group | grep sudo | grep -c ":"
+  690  cat /etc/group | grep sudo | grep -C ":"
+  691  clear
+  692  cat /etc/group | grep -c sudo
+  693  who
+  694  cat /etc/group | grep -c root
+  695  man grep
+  696  cat /etc/group | grep -o ','
+  697  cat /etc/group | grep sudo | grep -o ","
+  698  cat /etc/group | grep sudo | grep -o "," | wc -l + 1
+  699  cat /etc/group | grep sudo | grep -o "," | wc -l
+  700  cat /etc/group | grep sudo | grep -o "," | wc -l | echo "+1"
+  701  cat /etc/group | grep sudo | grep -o "," | wc -l | echo "+1" | bc
+  702  cat /etc/group | grep sudo | grep -o "," | wc -l
+  703  cat /vat/log/auth.log
+  704  cat /var/log/auth.log
+  705  cat /var/log/auth.log | grep sudo
+  706  cat /var/log/auth.log | grep sudo | wc -l
+  707  cat /var/log/auth.log | grep failure
+  708  ls
+  709  cd part2
+  710  vi part2_jme433.sh
+  711  ls -l
+  712  ./part2_jme433.sh
+  713  ls
+  714  tree
+  715  vi part2_jme433.sh
+  716  ls
+  717  cd SHARED
+  718  ls
+  719  sudo mount -t vboxsf Shared /home/jie433/SHARED
+  720  ls
+  721  cd
+  722  ls
+  723  cd SHARED
+  724  ls
+  725  clear
+  726  ls
+  727  cd SHARED
+  728  ls
+  729  ls
+  730  cd SHARED
+  731  sudo mount -t vboxsf Shared /home/jie433/SHARED
+  732  cd
+  733  ls
+  734  cd SHARED
+  735  sudo gedit /etc/fstab
+  736  sudo vi /etc/fstab
+  737  sudo gedit /etc/fstab
+  738  sudo vi /etc/fstab
+  739  cd
+  740  clear
+  741  ls
+  742  vi auto_mount.sh
+  743  chmod 755 auto_mount.sh
+  744  ls -l auto_mount.sh
+  745  clear
+  746  ./auto_mount.sh
+  747  vi auto_mount.sh
+  748  ./auto_mount.sh
+  749  ls
+  750  cd SHARED
+  751  ls
+  752  cd CSIS3560
+  753  ls
+  754  clear
+  755  cd assignment1_jme433
+  756  ls
+  757  tree
+  758  clear
+  759  cd
+  760  cd SHARED/CSIS3560
+  761  ls
+  762  tree assignment1_jme433
+  763  cd part2
+  764  ls
+  765  cd assignment1_jme433
+  766  cd part
+  767  cd part2
+  768  ls
+  769  clear
+  770  ls
+  771  firefox output_part2_jme433.html
+  772  clear
+  773  cd
+  774  ls
+  775  clear
+  776  cd SHARED
+  777  ls
+  778  cd CSIS3560
+  779  ls
+  780  cd assignment1_jme433
+  781  ls
+  782  cd part2
+  783  ls
+  784  cd screenshot
+  785  ls
+  786  eog kali_addnewuser_sudo.png
+  787  clear
+  788  cd
+  789  clear
+  790  ls
+  791  clear
+  792  vi auto_mount.sh
+  793  ./auto_mount.sh
+  794  ls
+  795  tree SHARED
+  796  clear
+  797  vi /var/log/auth.log
+  798  clear
+  799  ls
+  800  vi SHARED/CSIS3560/assignment1_jme433/part2/part2_jme433.sh
+  801  cat /var/log/auth.log
+  802  cat /var/log/auth.log | grep failure
+  803  cat /var/log/auth.log | grep "failure"
+  804  cat /var/log/auth.log | grep sudo
+  805  clear
+  806  cat /var/log/auth.log | grep sudo
+  807  clear
+  808  ls
+  809  tree SHARED
+  810  clear
+  811  cat auto_mount.sh| grep mount
+  812  clear
+  813  cat /var/log/auth.log | grep :
+  814  sudo cat /var/log/auth.log | grep failure
+  815  vi /var/log/auth.log
+  816  cat /var/log/auth.log | grep failure
+  817  cat /var/log/auth.log | grep -a failure
+  818  cat /var/log/auth.log | grep failure
+  819  clear
+  820  ls
+  821  cd SHARED/CSIS3560/assignment1_jme433
+  822  ls
+  823  cd part
+  824  cd part2
+  825  ls
+  826  vi part2_jme433.sh
+  827  cat /vat/log/auth.log
+  828  cat /var/log/auth.log
+  829  cat /var/log/auth.log | grep failure
+  830  cat /var/log/auth.log | grep -a sudo
+  831  cat /var/log/auth.log | grep -a sudo | wc -l
+  832  clear
+  833  ls
+  834  cd SHARED/CSIS3560/assignment1_jme433
+  835  cd assignment1_jme433
+  836  ls
+  837  cd part2
+  838  ls
+  839  ./part2_jme433.sh
+  840  firefox output_part2_jme433.html
+  841  cd
+  842  clear
+  843  cat /var/log/auth.log | grep sudo
+  844  cd
+  845  ls
+  846  cd week02
+  847  ls
+  848  cat week02_practice_commands
+  849  cd
+  850  clear
+  851  cat /var/log/auth.log | grep -a jie433
+  852  clear
+  853  cat /var/log/auth.log | grep jie433
+  854  cat /var/log/auth.log | grep -a nul
+  855  cat /var/log/auth.log | grep -a NUL
+  856  cat /etc/passwd | grep nologin | wc -l
+  857  cat /etc/passwd | grep nologin
+  858  clear
+  859  vi /var/log/auth.log
+  860  cat /var/log/auth.log | grep failure
+  861  cd
+  862  sudo cat /var/log/auth.log | grep failure
+  863  ifconfig
+  864  ls
+  865  ./auto_mount.sh
+  866  cd SHARED
+  867  ls
+  868  clear
+  869  vi auto_mount.sh
+  870  ls
+  871  cd
+  872  vi auto_mount.sh
+  873  cd
+  874  cd SHARED
+  875  cd
+  876  cd SHARED
+  877  ls
+  878  tree SHARED
+  879  tree
+  880  clear
+  881  cd
+  882  ls
+  883  ./auto_mount.sh
+  884  cd SHARED
+  885  ls
+  886  tree
+  887  clear
+  888  cd
+  889  ls
+  890  clear
+  891  dig
+  892  dig google.com
+  893  clear
+  894  cd
+  895  ls
+  896  mkdir Tutorial
+  897  mv week01 Tutorial
+  898  mv week02 Tutorial
+  899  ls
+  900  cd Tutorial
+  901  ls
+  902  cat week01
+  903  cd week01
+  904  ls
+  905  cd week02
+  906  cd ../week02
+  907  ls
+  908  clear
+  909  cd
+  910  clear
+  911  pwd
+  912  cleaqr
+  913  clear
+  914  cd Tutorial
+  915  ls
+  916  mkdir week04
+  917  ls
+  918  cd week04
+  919  echo "Text Processing"
+  920  clear
+  921  echo "aaabbc" | tr "ab" "xy"
+  922  echo "aaabbc" | tr -s "ab" 
+  923  echo "secret text" | tr a-z n-za-m
+  924  echo "abcdefghijklmnopqistuvwxyz" | tr a-z n-za-m
+  925  echo "secret text" | tr a-z n-za-m | tr a-z n-za-m
+  926  echo "banana\mango\grape" > fruit.txt
+  927  echo "kiwi\strawberry" > fruit2.txt
+  928  mv fruit.txt fruit1.txt
+  929  ls
+  930  clear
+  931  sed 's/banana/apple/g' fruit1.txt
+  932  cat fruit1.txt
+  933  sed -e 's/banana/apple/g' -e 's/mango/kiwi/g' fruit1.txt
+  934  cat fruit1.txt
+  935  clear
+  936  cat fruit1.txt fruit2.txt > fruit3.txt
+  937  ls
+  938  cat fruit3.txt
+  939  sed -i -e 's/banana/apple/g' -e 's/mango/kiwi/g' fruit3.txt
+  940  cat fruit3.txt
+  941  diff fruit3.txt fruit2.txt
+  942  cat fruit1.txt fruit2.txt > fruit3_orig.txt
+  943  diff fruit3.txt fruit3_orig.txt
+  944  clear
+  945  cat fruit3.txt
+  946  cat fruit3_orig.txt
+  947  diff fruit3.txt fruit3_orig.txt
+  948  clear
+  949  echo "Process"
+  950  ps
+  951  ps -a
+  952  ps -x
+  953  ps x
+  954  ps ax
+  955  ps -ef
+  956  clear
+  957  ls
+  958  top
+  959  clear
+  960  firefox &
+  961  clear
+  962  xlogo
+  963  xlogo&0
+  964  xloho&1
+  965  xlogo&1
+  966  ps -df | grep xlogo
+  967  killall xlogo
+  968  ps -df | grep xlogo
+  969  clear
+  970  vmstat
+  971  free
+  972  echo "Networking"
+  973  uname -a
+  974  clear
+  975  cat /etc/host
+  976  cat /etc/hosts
+  977  cat /etc/hostname
+  978  hostname
+  979  clear
+  980  ifconfig
+  981  dig hackerarise.com
+  982  dig hacker-arise.com ns
+  983  clear
+  984  cat /etc/resolv.conf
+  985  netstat
+  986  netstat -a 
+  987  netstat -tlpn | grep listen 
+  988  netstat -tlpn | grep LISTEN
+  989  sudo service ssh start
+  990  netstat -tlpn | grep LISTEN
+  991  sudo iptable -l
+  992  sudo iptables -l
+  993  sudo iptables -L
+  994  clear
+  995  sudo useradd -m sshuser
+  996  sudo passwd sshuser
+  997  sudo chsh -s /bin/bash sshuser
+  998  ssh sshuser@localhost
+  999  echo "Creating passwordless ssh auth"
+ 1000  clear
+ 1001  ls -al ~/.ssh/id_*.pub
+ 1002  ssh-keygen -t rsa -b 4096 -C kali@csis3560.com
+ 1003  ls -al ~/.ssh/id_*.pub
+ 1004  cat ~/.ssh/id_*.pub
+ 1005  pwd
+ 1006  clear
+ 1007  ssh-copy-id sshuser@localhost
+ 1008  whoami 
+ 1009  clear
+ 1010  ssh sshuser@localhost
+ 1011  ssh sshuser@localhost 'ls -al'
+ 1012  ssh sshuser@localhost 'ls -al' > list.txt
+ 1013  ls

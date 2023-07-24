@@ -1,0 +1,17 @@
+[
+    {
+        "Color": "Orange",
+        "Name": "Orange",
+        "Weight(lb)": 1
+    },
+    {
+        "Color": "Yellow",
+        "Name": "Banana",
+        "Weight(lb)": 4
+    },
+    {
+        "Color": "Purple",
+        "Name": "Grape",
+        "Weight(lb)": 3
+    }
+]

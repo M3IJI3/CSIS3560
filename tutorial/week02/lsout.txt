@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x  2 root root     4096 May 15 11:42 backups
+drwxr-xr-x 18 root root     4096 May  6 20:33 cache
+drwxr-xr-x 75 root root     4096 May  8 14:34 lib
+drwxrwsr-x  2 root staff    4096 Feb 28 01:01 local
+lrwxrwxrwx  1 root root        9 May  8 14:22 lock -> /run/lock
+drwxr-xr-x 21 root root     4096 May 15 12:00 log
+drwxrwsr-x  2 root mail     4096 May  8 14:22 mail
+drwxr-xr-x  2 root root     4096 May  8 14:22 opt
+lrwxrwxrwx  1 root root        4 May  8 14:22 run -> /run
+drwxr-xr-x  4 root root     4096 May  8 14:28 spool
+drwxrwxr-x  2 root csis3560 4096 May 15 12:09 temp
+drwxrwxrwt  7 root root     4096 May 15 12:09 tmp
+drwxr-xr-x  3 root root     4096 May  8 14:23 www
+The content of /var

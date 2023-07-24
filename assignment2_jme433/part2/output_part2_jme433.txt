@@ -1,0 +1,33 @@
+Server localhost
+	HOSTNAME: Linux CSIS3560-S2023-KALI-JME-300364433 6.1.0-kali5-amd64
+	Number of service running: 26
+	Number of process running: 
+	Free memory(NOT SWAPPED): 87Mi
+	Load average server: 0.38
+User testuser
+	Number of user: 60
+	Number of group: 92
+	User with home directory: 6
+
+Server LinuxMint-CSIS3560
+	HOSTNAME: Linux CSIS3560-S2023-MINT-JME-300364433 5.15.0-56-generic
+	Number of service running: 38
+	Number of process running: 
+	Free memory(NOT SWAPPED): 172Mi
+	Load average server: 0.10
+User testuser
+	Number of user: 50
+	Number of group: 79
+	User with home directory: 4
+
+Server badserver
+	HOSTNAME: 
+	Number of service running: 
+	Number of process running: 
+	Free memory(NOT SWAPPED): 
+	Load average server: 
+User 
+	Number of user: 
+	Number of group: 
+	User with home directory: 
+
