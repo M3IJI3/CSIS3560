@@ -1,0 +1,20 @@
+[
+  {
+    "IPAddress": "127.0.0.1",
+    "ServerName": "localhost",
+    "IsOnline": true,
+    "Error": null
+  },
+  {
+    "IPAddress": "192.168.56.101",
+    "ServerName": "WS2022",
+    "IsOnline": true,
+    "Error": null
+  },
+  {
+    "IPAddress": "10.0.0.25",
+    "ServerName": "badserver",
+    "IsOnline": false,
+    "Error": null
+  }
+]
