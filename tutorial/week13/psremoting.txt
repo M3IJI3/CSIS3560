@@ -1,0 +1,39 @@
+# PSRemoting # 
+跑的時候記得 run as Administrator 
+Remote 端 :
+1. Self-signed certificate
+$env:computername
+$Cert = New-SelfSignedCertificate -CertstoreLocation Cert:\LocalMachine\My -DnsName "WS2022-ATS30033"
+
+2. Make Self-signed certificate
+rmd-> mmc
+add snap-in -> Certificate -> Computer account -> Local Computer
+
+3.Export Cerificate 
+(1) create a directory
+New-Item -ItemType Directory c:\temp
+(2) exporting
+Export-Cerificate -Cert $Cert -FilePath c:\temp\cert-ats30033
+
+
+4.Enable PSRemoting
+#enable PSRemote
+Enable-PSRemoting -SkipNetworkProfileCheck -Force
+
+
+# Enable WS-Man via HTTPS add Firewall Rule #
+
+New-Item -Path WSMan:\LocalHost\Listener -Transport HTTPS
+-Address * -CertificateThumbPrint $Cert.Thumbprint –Force
+(這裡的時候 查看一下 dir wsman:\localhost\listener 會看到兩個listener)
+
+New-NetFirewallRule -DisplayName "Windows Remote
+Management (HTTPS-In)" -Name "Windows Remote Management
+(HTTPS-In)" -Profile Any -LocalPort 5986 -Protocol TCP
+
+#-Value true
+Set-Item WSMan:localhost\client\trustedhosts -value *
+
+
+清理listener
+remove-Item -Path WSMan:\localhost\Listener\Listener* -Recurse

@@ -1,0 +1,30 @@
+[
+  {
+    "Info": "Server",
+    "Value": "Localhost"
+  },
+  {
+    "Info": "Port:21",
+    "Value": "Closed"
+  },
+  {
+    "Info": "Port:22",
+    "Value": "Closed"
+  },
+  {
+    "Info": "Port:80",
+    "Value": "Open"
+  },
+  {
+    "Info": "Port:443",
+    "Value": "Closed"
+  },
+  {
+    "Info": "OsName",
+    "Value": "Microsoft Windows 10 Home"
+  },
+  {
+    "Info": "OsVersion",
+    "Value": "10.0.19045"
+  }
+]
