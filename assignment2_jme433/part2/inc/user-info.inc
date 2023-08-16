@@ -1,3 +1,4 @@
+#!/bin/bash
 # user-info.inc
 
 function whoami(){

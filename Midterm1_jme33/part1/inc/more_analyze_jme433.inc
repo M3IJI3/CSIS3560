@@ -1,3 +1,4 @@
+#!/bin/bash
 
 avg_request_size=``
 code_200=`cat data/apache.log | awk -F ' ' '{print $9}' | grep 200 | wc -l`

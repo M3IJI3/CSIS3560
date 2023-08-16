@@ -1,3 +1,4 @@
+#!/bin/bash
 # header_jme433.inc
 
 # Ask user for student name

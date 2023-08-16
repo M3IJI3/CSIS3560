@@ -1,3 +1,4 @@
+#!/bin/bash
 # simple_analyze_jme433.inc
 
 first_record=`head -1 data/apache.log | awk -F ':' '{print $1}' | awk -F '[' '{print $2}'`

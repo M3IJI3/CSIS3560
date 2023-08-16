@@ -1,3 +1,4 @@
+#!/bin/bash
 # analyze_jme433.inc
 
 # Log file being analyzed

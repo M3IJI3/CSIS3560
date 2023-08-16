@@ -1,4 +1,4 @@
-Get-Content -Path assignment5_jme433\Part1\ports.txt
+Get-Content -Path .\Part1\ports.txt
 
 
 # Display the header
